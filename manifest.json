@@ -1,0 +1,16 @@
+{
+    "name": "Hollow Knight Items Only",
+    "game_name": "Hollow Knight",
+    "package_version": "0.0.1",
+    "package_uid": "hollow knight_ap",
+    "author": "StripesOO7's builder_script and Murnco",
+    "variants": {
+        "Items Only": {
+            "display_name": "Items Only",
+            "flags": [
+                "ap"
+            ]
+        }
+    },
+    "min_poptracker_version": "0.31.0"
+}
