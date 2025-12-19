@@ -573,11 +573,7 @@
                 "name": "Howling_Wraiths",
                 "inherit_codes": true,
                 "img": "/images/items/howling_wraiths.png",
-                "img_mods": "",
-                "disabled_img": "",
-
                 "codes": "howling_wraiths_stage1",
-                "secondary_codes": ""
             },
             {
                 "name": "Abyss_Shriek",
@@ -1041,7 +1037,7 @@
         "overlay_align": "right",
         "stages": [
             {
-                "name": "Fragile_Strength stage1",
+                "name": "Fragile_Strength",
                 "inherit_codes": true,
                 "img": "/images/items/fragile_strength.png",
                 "codes": "fragile_strength_stage1",
@@ -1103,7 +1099,7 @@
         "overlay_align": "right",
         "stages": [
             {
-                "name": "Grimmchild1 stage1",
+                "name": "Grimmchild1",
                 "inherit_codes": true,
                 "img": "/images/items/grimmchild1.png",
                 "codes": "grimmchild1_stage1",
@@ -1176,4 +1172,5 @@
         "overlay_align": "right",
         "codes": "update"
     }
+
 ]
