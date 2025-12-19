@@ -1,0 +1,4442 @@
+[
+    {
+        "name": "Abyss_Shriek",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Abyss_Shriek.png"
+    },
+    {
+        "name": "Ancient_Basin_Map",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Ancient_Basin_Map.png"
+    },
+    {
+        "name": "Arcane_Egg-Birthplace",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Arcane_Egg-Birthplace.png"
+    },
+    {
+        "name": "Arcane_Egg-Lifeblood_Core",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Arcane_Egg-Lifeblood_Core.png"
+    },
+    {
+        "name": "Arcane_Egg-Shade_Cloak",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Arcane_Egg-Shade_Cloak.png"
+    },
+    {
+        "name": "Baldur_Shell",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Baldur_Shell.png"
+    },
+    {
+        "name": "Boss_Essence-Elder_Hu",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Boss_Essence-Elder_Hu.png"
+    },
+    {
+        "name": "Boss_Essence-Failed_Champion",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Boss_Essence-Failed_Champion.png"
+    },
+    {
+        "name": "Boss_Essence-Galien",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Boss_Essence-Galien.png"
+    },
+    {
+        "name": "Boss_Essence-Gorb",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Boss_Essence-Gorb.png"
+    },
+    {
+        "name": "Boss_Essence-Grey_Prince_Zote",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Boss_Essence-Grey_Prince_Zote.png"
+    },
+    {
+        "name": "Boss_Essence-Lost_Kin",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Boss_Essence-Lost_Kin.png"
+    },
+    {
+        "name": "Boss_Essence-Markoth",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Boss_Essence-Markoth.png"
+    },
+    {
+        "name": "Boss_Essence-Marmu",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Boss_Essence-Marmu.png"
+    },
+    {
+        "name": "Boss_Essence-No_Eyes",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Boss_Essence-No_Eyes.png"
+    },
+    {
+        "name": "Boss_Essence-Soul_Tyrant",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Boss_Essence-Soul_Tyrant.png"
+    },
+    {
+        "name": "Boss_Essence-White_Defender",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Boss_Essence-White_Defender.png"
+    },
+    {
+        "name": "Boss_Essence-Xero",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Boss_Essence-Xero.png"
+    },
+    {
+        "name": "Boss_Geo-Crystal_Guardian",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Boss_Geo-Crystal_Guardian.png"
+    },
+    {
+        "name": "Boss_Geo-Elegant_Soul_Warrior",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Boss_Geo-Elegant_Soul_Warrior.png"
+    },
+    {
+        "name": "Boss_Geo-Enraged_Guardian",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Boss_Geo-Enraged_Guardian.png"
+    },
+    {
+        "name": "Boss_Geo-Gorgeous_Husk",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Boss_Geo-Gorgeous_Husk.png"
+    },
+    {
+        "name": "Boss_Geo-Gruz_Mother",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Boss_Geo-Gruz_Mother.png"
+    },
+    {
+        "name": "Boss_Geo-Massive_Moss_Charger",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Boss_Geo-Massive_Moss_Charger.png"
+    },
+    {
+        "name": "Boss_Geo-Sanctum_Soul_Warrior",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Boss_Geo-Sanctum_Soul_Warrior.png"
+    },
+    {
+        "name": "Boss_Geo-Vengefly_King",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Boss_Geo-Vengefly_King.png"
+    },
+    {
+        "name": "Charm_Notch-Colosseum",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Charm_Notch-Colosseum.png"
+    },
+    {
+        "name": "Charm_Notch-Fog_Canyon",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Charm_Notch-Fog_Canyon.png"
+    },
+    {
+        "name": "Charm_Notch-Grimm",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Charm_Notch-Grimm.png"
+    },
+    {
+        "name": "Charm_Notch-Shrumal_Ogres",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Charm_Notch-Shrumal_Ogres.png"
+    },
+    {
+        "name": "City_Crest",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/City_Crest.png"
+    },
+    {
+        "name": "City_Storerooms_Stag",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/City_Storerooms_Stag.png"
+    },
+    {
+        "name": "City_of_Tears_Map",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/City_of_Tears_Map.png"
+    },
+    {
+        "name": "Collectors_Map",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Collectors_Map.png"
+    },
+    {
+        "name": "Crossroads_Map",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Crossroads_Map.png"
+    },
+    {
+        "name": "Crossroads_Stag",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Crossroads_Stag.png"
+    },
+    {
+        "name": "Crystal_Heart",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Crystal_Heart.png"
+    },
+    {
+        "name": "Crystal_Peak_Map",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Crystal_Peak_Map.png"
+    },
+    {
+        "name": "Cyclone_Slash",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Cyclone_Slash.png"
+    },
+    {
+        "name": "Dash_Slash",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Dash_Slash.png"
+    },
+    {
+        "name": "Dashmaster",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Dashmaster.png"
+    },
+    {
+        "name": "Deep_Focus",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Deep_Focus.png"
+    },
+    {
+        "name": "Deepnest_Map-Right",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Deepnest_Map-Right.png"
+    },
+    {
+        "name": "Deepnest_Map-Upper",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Deepnest_Map-Upper.png"
+    },
+    {
+        "name": "Defenders_Crest",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Defenders_Crest.png"
+    },
+    {
+        "name": "Descending_Dark",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Descending_Dark.png"
+    },
+    {
+        "name": "Desolate_Dive",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Desolate_Dive.png"
+    },
+    {
+        "name": "Dirtmouth_Stag",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Dirtmouth_Stag.png"
+    },
+    {
+        "name": "Distant_Village_Stag",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Distant_Village_Stag.png"
+    },
+    {
+        "name": "Dream_Nail",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Dream_Nail.png"
+    },
+    {
+        "name": "Dreamshield",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Dreamshield.png"
+    },
+    {
+        "name": "Egg_Shop_1",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Egg_Shop_1.png"
+    },
+    {
+        "name": "Egg_Shop_10",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Egg_Shop_10.png"
+    },
+    {
+        "name": "Egg_Shop_11",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Egg_Shop_11.png"
+    },
+    {
+        "name": "Egg_Shop_12",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Egg_Shop_12.png"
+    },
+    {
+        "name": "Egg_Shop_13",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Egg_Shop_13.png"
+    },
+    {
+        "name": "Egg_Shop_14",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Egg_Shop_14.png"
+    },
+    {
+        "name": "Egg_Shop_15",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Egg_Shop_15.png"
+    },
+    {
+        "name": "Egg_Shop_16",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Egg_Shop_16.png"
+    },
+    {
+        "name": "Egg_Shop_2",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Egg_Shop_2.png"
+    },
+    {
+        "name": "Egg_Shop_3",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Egg_Shop_3.png"
+    },
+    {
+        "name": "Egg_Shop_4",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Egg_Shop_4.png"
+    },
+    {
+        "name": "Egg_Shop_5",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Egg_Shop_5.png"
+    },
+    {
+        "name": "Egg_Shop_6",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Egg_Shop_6.png"
+    },
+    {
+        "name": "Egg_Shop_7",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Egg_Shop_7.png"
+    },
+    {
+        "name": "Egg_Shop_8",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Egg_Shop_8.png"
+    },
+    {
+        "name": "Egg_Shop_9",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Egg_Shop_9.png"
+    },
+    {
+        "name": "Elevator_Pass",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Elevator_Pass.png"
+    },
+    {
+        "name": "Flukenest",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Flukenest.png"
+    },
+    {
+        "name": "Focus",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Focus.png"
+    },
+    {
+        "name": "Fog_Canyon_Map",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Fog_Canyon_Map.png"
+    },
+    {
+        "name": "Fungal_Wastes_Map",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Fungal_Wastes_Map.png"
+    },
+    {
+        "name": "Fury_of_the_Fallen",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Fury_of_the_Fallen.png"
+    },
+    {
+        "name": "Geo_Chest-Crystal_Peak",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Chest-Crystal_Peak.png"
+    },
+    {
+        "name": "Geo_Chest-False_Knight",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Chest-False_Knight.png"
+    },
+    {
+        "name": "Geo_Chest-Greenpath",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Chest-Greenpath.png"
+    },
+    {
+        "name": "Geo_Chest-Junk_Pit_1",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Chest-Junk_Pit_1.png"
+    },
+    {
+        "name": "Geo_Chest-Junk_Pit_2",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Chest-Junk_Pit_2.png"
+    },
+    {
+        "name": "Geo_Chest-Junk_Pit_3",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Chest-Junk_Pit_3.png"
+    },
+    {
+        "name": "Geo_Chest-Junk_Pit_5",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Chest-Junk_Pit_5.png"
+    },
+    {
+        "name": "Geo_Chest-Mantis_Lords",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Chest-Mantis_Lords.png"
+    },
+    {
+        "name": "Geo_Chest-Resting_Grounds",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Chest-Resting_Grounds.png"
+    },
+    {
+        "name": "Geo_Chest-Soul_Master",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Chest-Soul_Master.png"
+    },
+    {
+        "name": "Geo_Chest-Watcher_Knights",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Chest-Watcher_Knights.png"
+    },
+    {
+        "name": "Geo_Chest-Weavers_Den",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Chest-Weavers_Den.png"
+    },
+    {
+        "name": "Geo_Rock-Above_Kings_Station",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Above_Kings_Station.png"
+    },
+    {
+        "name": "Geo_Rock-Above_Mantis_Lords_1",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Above_Mantis_Lords_1.png"
+    },
+    {
+        "name": "Geo_Rock-Above_Mantis_Lords_2",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Above_Mantis_Lords_2.png"
+    },
+    {
+        "name": "Geo_Rock-Above_Mask_Maker_1",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Above_Mask_Maker_1.png"
+    },
+    {
+        "name": "Geo_Rock-Above_Mask_Maker_2",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Above_Mask_Maker_2.png"
+    },
+    {
+        "name": "Geo_Rock-Abyss_1",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Abyss_1.png"
+    },
+    {
+        "name": "Geo_Rock-Abyss_2",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Abyss_2.png"
+    },
+    {
+        "name": "Geo_Rock-Abyss_3",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Abyss_3.png"
+    },
+    {
+        "name": "Geo_Rock-Ancestral_Mound",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Ancestral_Mound.png"
+    },
+    {
+        "name": "Geo_Rock-Ancestral_Mound_Dupe",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Ancestral_Mound_Dupe.png"
+    },
+    {
+        "name": "Geo_Rock-Ancestral_Mound_Tree",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Ancestral_Mound_Tree.png"
+    },
+    {
+        "name": "Geo_Rock-Ancestral_Mound_Tree_Dupe",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Ancestral_Mound_Tree_Dupe.png"
+    },
+    {
+        "name": "Geo_Rock-Baldur_Shell_Alcove",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Baldur_Shell_Alcove.png"
+    },
+    {
+        "name": "Geo_Rock-Baldur_Shell_Top_Left",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Baldur_Shell_Top_Left.png"
+    },
+    {
+        "name": "Geo_Rock-Basin_Before_Broken_Vessel",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Basin_Before_Broken_Vessel.png"
+    },
+    {
+        "name": "Geo_Rock-Basin_Grub",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Basin_Grub.png"
+    },
+    {
+        "name": "Geo_Rock-Basin_Tunnel",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Basin_Tunnel.png"
+    },
+    {
+        "name": "Geo_Rock-Beasts_Den_Above_Trilobite",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Beasts_Den_Above_Trilobite.png"
+    },
+    {
+        "name": "Geo_Rock-Beasts_Den_Above_Trilobite_Dupe",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Beasts_Den_Above_Trilobite_Dupe.png"
+    },
+    {
+        "name": "Geo_Rock-Beasts_Den_After_Herrah",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Beasts_Den_After_Herrah.png"
+    },
+    {
+        "name": "Geo_Rock-Beasts_Den_Below_Egg",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Beasts_Den_Below_Egg.png"
+    },
+    {
+        "name": "Geo_Rock-Beasts_Den_Below_Egg_Dupe",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Beasts_Den_Below_Egg_Dupe.png"
+    },
+    {
+        "name": "Geo_Rock-Beasts_Den_Below_Herrah",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Beasts_Den_Below_Herrah.png"
+    },
+    {
+        "name": "Geo_Rock-Beasts_Den_Bottom",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Beasts_Den_Bottom.png"
+    },
+    {
+        "name": "Geo_Rock-Beasts_Den_Bottom_Dupe",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Beasts_Den_Bottom_Dupe.png"
+    },
+    {
+        "name": "Geo_Rock-Below_Gorb",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Below_Gorb.png"
+    },
+    {
+        "name": "Geo_Rock-Below_Gorb_Dupe",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Below_Gorb_Dupe.png"
+    },
+    {
+        "name": "Geo_Rock-Broken_Bridge_Lower",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Broken_Bridge_Lower.png"
+    },
+    {
+        "name": "Geo_Rock-Broken_Bridge_Lower_Dupe",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Broken_Bridge_Lower_Dupe.png"
+    },
+    {
+        "name": "Geo_Rock-Broken_Bridge_Upper",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Broken_Bridge_Upper.png"
+    },
+    {
+        "name": "Geo_Rock-Broken_Elevator_1",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Broken_Elevator_1.png"
+    },
+    {
+        "name": "Geo_Rock-Broken_Elevator_2",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Broken_Elevator_2.png"
+    },
+    {
+        "name": "Geo_Rock-Broken_Elevator_3",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Broken_Elevator_3.png"
+    },
+    {
+        "name": "Geo_Rock-City_of_Tears_Above_Lemm",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-City_of_Tears_Above_Lemm.png"
+    },
+    {
+        "name": "Geo_Rock-City_of_Tears_Lemm",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-City_of_Tears_Lemm.png"
+    },
+    {
+        "name": "Geo_Rock-City_of_Tears_Quirrel",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-City_of_Tears_Quirrel.png"
+    },
+    {
+        "name": "Geo_Rock-Cliffs_Main_1",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Cliffs_Main_1.png"
+    },
+    {
+        "name": "Geo_Rock-Cliffs_Main_2",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Cliffs_Main_2.png"
+    },
+    {
+        "name": "Geo_Rock-Cliffs_Main_3",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Cliffs_Main_3.png"
+    },
+    {
+        "name": "Geo_Rock-Cliffs_Main_4",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Cliffs_Main_4.png"
+    },
+    {
+        "name": "Geo_Rock-Crossroads_Above_False_Knight",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Crossroads_Above_False_Knight.png"
+    },
+    {
+        "name": "Geo_Rock-Crossroads_Above_Lever",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Crossroads_Above_Lever.png"
+    },
+    {
+        "name": "Geo_Rock-Crossroads_Above_Mawlek",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Crossroads_Above_Mawlek.png"
+    },
+    {
+        "name": "Geo_Rock-Crossroads_Above_Tram",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Crossroads_Above_Tram.png"
+    },
+    {
+        "name": "Geo_Rock-Crossroads_After_Goam_Mask_Shard",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Crossroads_After_Goam_Mask_Shard.png"
+    },
+    {
+        "name": "Geo_Rock-Crossroads_Aspid_Arena",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Crossroads_Aspid_Arena.png"
+    },
+    {
+        "name": "Geo_Rock-Crossroads_Aspid_Arena_Dupe_1",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Crossroads_Aspid_Arena_Dupe_1.png"
+    },
+    {
+        "name": "Geo_Rock-Crossroads_Aspid_Arena_Dupe_2",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Crossroads_Aspid_Arena_Dupe_2.png"
+    },
+    {
+        "name": "Geo_Rock-Crossroads_Aspid_Arena_Hidden",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Crossroads_Aspid_Arena_Hidden.png"
+    },
+    {
+        "name": "Geo_Rock-Crossroads_Before_Acid_Grub",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Crossroads_Before_Acid_Grub.png"
+    },
+    {
+        "name": "Geo_Rock-Crossroads_Before_Fungal",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Crossroads_Before_Fungal.png"
+    },
+    {
+        "name": "Geo_Rock-Crossroads_Before_Fungal_Dupe_1",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Crossroads_Before_Fungal_Dupe_1.png"
+    },
+    {
+        "name": "Geo_Rock-Crossroads_Before_Fungal_Dupe_2",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Crossroads_Before_Fungal_Dupe_2.png"
+    },
+    {
+        "name": "Geo_Rock-Crossroads_Before_Glowing_Womb",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Crossroads_Before_Glowing_Womb.png"
+    },
+    {
+        "name": "Geo_Rock-Crossroads_Before_Shops",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Crossroads_Before_Shops.png"
+    },
+    {
+        "name": "Geo_Rock-Crossroads_Below_Goam_Mask_Shard",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Crossroads_Below_Goam_Mask_Shard.png"
+    },
+    {
+        "name": "Geo_Rock-Crossroads_Center_Grub",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Crossroads_Center_Grub.png"
+    },
+    {
+        "name": "Geo_Rock-Crossroads_Goam_Alcove",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Crossroads_Goam_Alcove.png"
+    },
+    {
+        "name": "Geo_Rock-Crossroads_Goam_Damage_Boost",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Crossroads_Goam_Damage_Boost.png"
+    },
+    {
+        "name": "Geo_Rock-Crossroads_Goam_Journal",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Crossroads_Goam_Journal.png"
+    },
+    {
+        "name": "Geo_Rock-Crossroads_Goam_Journal_Dupe",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Crossroads_Goam_Journal_Dupe.png"
+    },
+    {
+        "name": "Geo_Rock-Crossroads_Root",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Crossroads_Root.png"
+    },
+    {
+        "name": "Geo_Rock-Crossroads_Root_Dupe_1",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Crossroads_Root_Dupe_1.png"
+    },
+    {
+        "name": "Geo_Rock-Crossroads_Root_Dupe_2",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Crossroads_Root_Dupe_2.png"
+    },
+    {
+        "name": "Geo_Rock-Crossroads_Tram",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Crossroads_Tram.png"
+    },
+    {
+        "name": "Geo_Rock-Crossroads_Vessel_Fragment",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Crossroads_Vessel_Fragment.png"
+    },
+    {
+        "name": "Geo_Rock-Crossroads_Well",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Crossroads_Well.png"
+    },
+    {
+        "name": "Geo_Rock-Crystal_Peak_Above_Crushers_Higher",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Crystal_Peak_Above_Crushers_Higher.png"
+    },
+    {
+        "name": "Geo_Rock-Crystal_Peak_Above_Crushers_Lower",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Crystal_Peak_Above_Crushers_Lower.png"
+    },
+    {
+        "name": "Geo_Rock-Crystal_Peak_Above_Spike_Grub",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Crystal_Peak_Above_Spike_Grub.png"
+    },
+    {
+        "name": "Geo_Rock-Crystal_Peak_Before_Crystal_Heart",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Crystal_Peak_Before_Crystal_Heart.png"
+    },
+    {
+        "name": "Geo_Rock-Crystal_Peak_Before_Dark_Room",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Crystal_Peak_Before_Dark_Room.png"
+    },
+    {
+        "name": "Geo_Rock-Crystal_Peak_Before_Dark_Room_Dupe",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Crystal_Peak_Before_Dark_Room_Dupe.png"
+    },
+    {
+        "name": "Geo_Rock-Crystal_Peak_Conga_Line",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Crystal_Peak_Conga_Line.png"
+    },
+    {
+        "name": "Geo_Rock-Crystal_Peak_Dive_Egg",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Crystal_Peak_Dive_Egg.png"
+    },
+    {
+        "name": "Geo_Rock-Crystal_Peak_Dive_Egg_Dupe",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Crystal_Peak_Dive_Egg_Dupe.png"
+    },
+    {
+        "name": "Geo_Rock-Crystal_Peak_Entrance",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Crystal_Peak_Entrance.png"
+    },
+    {
+        "name": "Geo_Rock-Crystal_Peak_Entrance_Dupe_1",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Crystal_Peak_Entrance_Dupe_1.png"
+    },
+    {
+        "name": "Geo_Rock-Crystal_Peak_Entrance_Dupe_2",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Crystal_Peak_Entrance_Dupe_2.png"
+    },
+    {
+        "name": "Geo_Rock-Crystal_Peak_Lower_Conveyer_1",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Crystal_Peak_Lower_Conveyer_1.png"
+    },
+    {
+        "name": "Geo_Rock-Crystal_Peak_Lower_Conveyer_2",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Crystal_Peak_Lower_Conveyer_2.png"
+    },
+    {
+        "name": "Geo_Rock-Crystal_Peak_Lower_Middle",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Crystal_Peak_Lower_Middle.png"
+    },
+    {
+        "name": "Geo_Rock-Crystal_Peak_Mimic_Grub",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Crystal_Peak_Mimic_Grub.png"
+    },
+    {
+        "name": "Geo_Rock-Dark_Deepnest_Above_Grub_1",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Dark_Deepnest_Above_Grub_1.png"
+    },
+    {
+        "name": "Geo_Rock-Dark_Deepnest_Above_Grub_2",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Dark_Deepnest_Above_Grub_2.png"
+    },
+    {
+        "name": "Geo_Rock-Dark_Deepnest_Bottom_Left",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Dark_Deepnest_Bottom_Left.png"
+    },
+    {
+        "name": "Geo_Rock-Deepnest_Above_Galien",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Deepnest_Above_Galien.png"
+    },
+    {
+        "name": "Geo_Rock-Deepnest_Below_Mimics",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Deepnest_Below_Mimics.png"
+    },
+    {
+        "name": "Geo_Rock-Deepnest_Below_Mimics_Dupe",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Deepnest_Below_Mimics_Dupe.png"
+    },
+    {
+        "name": "Geo_Rock-Deepnest_Below_Spike_Grub",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Deepnest_Below_Spike_Grub.png"
+    },
+    {
+        "name": "Geo_Rock-Deepnest_Below_Spike_Grub_Dupe",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Deepnest_Below_Spike_Grub_Dupe.png"
+    },
+    {
+        "name": "Geo_Rock-Deepnest_By_Mantis_Lords_1",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Deepnest_By_Mantis_Lords_1.png"
+    },
+    {
+        "name": "Geo_Rock-Deepnest_By_Mantis_Lords_2",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Deepnest_By_Mantis_Lords_2.png"
+    },
+    {
+        "name": "Geo_Rock-Deepnest_By_Mantis_Lords_Garpede_Pogo",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Deepnest_By_Mantis_Lords_Garpede_Pogo.png"
+    },
+    {
+        "name": "Geo_Rock-Deepnest_By_Mantis_Lords_Garpede_Pogo_Dupe",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Deepnest_By_Mantis_Lords_Garpede_Pogo_Dupe.png"
+    },
+    {
+        "name": "Geo_Rock-Deepnest_By_Mantis_Lords_Requires_Claw_1",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Deepnest_By_Mantis_Lords_Requires_Claw_1.png"
+    },
+    {
+        "name": "Geo_Rock-Deepnest_By_Mantis_Lords_Requires_Claw_2",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Deepnest_By_Mantis_Lords_Requires_Claw_2.png"
+    },
+    {
+        "name": "Geo_Rock-Deepnest_By_Mantis_Lords_Requires_Claw_3",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Deepnest_By_Mantis_Lords_Requires_Claw_3.png"
+    },
+    {
+        "name": "Geo_Rock-Deepnest_Galien_Spike",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Deepnest_Galien_Spike.png"
+    },
+    {
+        "name": "Geo_Rock-Deepnest_Garpede_1",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Deepnest_Garpede_1.png"
+    },
+    {
+        "name": "Geo_Rock-Deepnest_Garpede_2",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Deepnest_Garpede_2.png"
+    },
+    {
+        "name": "Geo_Rock-Deepnest_Lower_Cornifer",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Deepnest_Lower_Cornifer.png"
+    },
+    {
+        "name": "Geo_Rock-Deepnest_Nosk_1",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Deepnest_Nosk_1.png"
+    },
+    {
+        "name": "Geo_Rock-Deepnest_Nosk_2",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Deepnest_Nosk_2.png"
+    },
+    {
+        "name": "Geo_Rock-Deepnest_Nosk_3",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Deepnest_Nosk_3.png"
+    },
+    {
+        "name": "Geo_Rock-Deepnest_Spike_Grub_Right",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Deepnest_Spike_Grub_Right.png"
+    },
+    {
+        "name": "Geo_Rock-Fluke_Hermit",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Fluke_Hermit.png"
+    },
+    {
+        "name": "Geo_Rock-Fluke_Hermit_Dupe",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Fluke_Hermit_Dupe.png"
+    },
+    {
+        "name": "Geo_Rock-Fog_Canyon_East",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Fog_Canyon_East.png"
+    },
+    {
+        "name": "Geo_Rock-Fungal_Above_City_Entrance",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Fungal_Above_City_Entrance.png"
+    },
+    {
+        "name": "Geo_Rock-Fungal_Above_Cloth",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Fungal_Above_Cloth.png"
+    },
+    {
+        "name": "Geo_Rock-Fungal_After_Bouncy_Grub",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Fungal_After_Bouncy_Grub.png"
+    },
+    {
+        "name": "Geo_Rock-Fungal_After_Bouncy_Grub_Dupe",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Fungal_After_Bouncy_Grub_Dupe.png"
+    },
+    {
+        "name": "Geo_Rock-Fungal_After_Cloth",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Fungal_After_Cloth.png"
+    },
+    {
+        "name": "Geo_Rock-Fungal_After_Cornifer",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Fungal_After_Cornifer.png"
+    },
+    {
+        "name": "Geo_Rock-Fungal_Below_Pilgrims_Way",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Fungal_Below_Pilgrims_Way.png"
+    },
+    {
+        "name": "Geo_Rock-Fungal_Below_Pilgrims_Way_Dupe",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Fungal_Below_Pilgrims_Way_Dupe.png"
+    },
+    {
+        "name": "Geo_Rock-Fungal_Below_Shrumal_Ogres",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Fungal_Below_Shrumal_Ogres.png"
+    },
+    {
+        "name": "Geo_Rock-Fungal_Bouncy_Grub_Lever",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Fungal_Bouncy_Grub_Lever.png"
+    },
+    {
+        "name": "Geo_Rock-Fungal_Core_Above_Elder",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Fungal_Core_Above_Elder.png"
+    },
+    {
+        "name": "Geo_Rock-Fungal_Core_Entrance",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Fungal_Core_Entrance.png"
+    },
+    {
+        "name": "Geo_Rock-Fungal_Core_Hidden",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Fungal_Core_Hidden.png"
+    },
+    {
+        "name": "Geo_Rock-Godhome_Pipeway",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Godhome_Pipeway.png"
+    },
+    {
+        "name": "Geo_Rock-Greenpath_Above_Thorns",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Greenpath_Above_Thorns.png"
+    },
+    {
+        "name": "Geo_Rock-Greenpath_Acid_Bridge",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Greenpath_Acid_Bridge.png"
+    },
+    {
+        "name": "Geo_Rock-Greenpath_After_MMC",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Greenpath_After_MMC.png"
+    },
+    {
+        "name": "Geo_Rock-Greenpath_After_MMC_Dupe",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Greenpath_After_MMC_Dupe.png"
+    },
+    {
+        "name": "Geo_Rock-Greenpath_After_MMC_Hidden",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Greenpath_After_MMC_Hidden.png"
+    },
+    {
+        "name": "Geo_Rock-Greenpath_Below_Hornet",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Greenpath_Below_Hornet.png"
+    },
+    {
+        "name": "Geo_Rock-Greenpath_Below_Skip_Squit",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Greenpath_Below_Skip_Squit.png"
+    },
+    {
+        "name": "Geo_Rock-Greenpath_Below_Stag",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Greenpath_Below_Stag.png"
+    },
+    {
+        "name": "Geo_Rock-Greenpath_Below_Stag_Fool_Eater",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Greenpath_Below_Stag_Fool_Eater.png"
+    },
+    {
+        "name": "Geo_Rock-Greenpath_Below_Toll",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Greenpath_Below_Toll.png"
+    },
+    {
+        "name": "Geo_Rock-Greenpath_Entrance",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Greenpath_Entrance.png"
+    },
+    {
+        "name": "Geo_Rock-Greenpath_Hunters_Journal",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Greenpath_Hunters_Journal.png"
+    },
+    {
+        "name": "Geo_Rock-Greenpath_MMC",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Greenpath_MMC.png"
+    },
+    {
+        "name": "Geo_Rock-Greenpath_Moss_Knights",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Greenpath_Moss_Knights.png"
+    },
+    {
+        "name": "Geo_Rock-Greenpath_Moss_Knights_Dupe_1",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Greenpath_Moss_Knights_Dupe_1.png"
+    },
+    {
+        "name": "Geo_Rock-Greenpath_Moss_Knights_Dupe_2",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Greenpath_Moss_Knights_Dupe_2.png"
+    },
+    {
+        "name": "Geo_Rock-Greenpath_Obbles_Fool_Eater",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Greenpath_Obbles_Fool_Eater.png"
+    },
+    {
+        "name": "Geo_Rock-Greenpath_Second_Skip_Fool_Eater",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Greenpath_Second_Skip_Fool_Eater.png"
+    },
+    {
+        "name": "Geo_Rock-Greenpath_Second_Skip_Fool_Eater_Dupe",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Greenpath_Second_Skip_Fool_Eater_Dupe.png"
+    },
+    {
+        "name": "Geo_Rock-Greenpath_Second_Skip_Lower",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Greenpath_Second_Skip_Lower.png"
+    },
+    {
+        "name": "Geo_Rock-Greenpath_Skip_Squit",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Greenpath_Skip_Squit.png"
+    },
+    {
+        "name": "Geo_Rock-Greenpath_Toll_Hidden",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Greenpath_Toll_Hidden.png"
+    },
+    {
+        "name": "Geo_Rock-Greenpath_Toll_Hidden_Dupe",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Greenpath_Toll_Hidden_Dupe.png"
+    },
+    {
+        "name": "Geo_Rock-Greenpath_Waterfall",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Greenpath_Waterfall.png"
+    },
+    {
+        "name": "Geo_Rock-Hallownest_Crown_Dive",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Hallownest_Crown_Dive.png"
+    },
+    {
+        "name": "Geo_Rock-Hallownest_Crown_Dive_Dupe",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Hallownest_Crown_Dive_Dupe.png"
+    },
+    {
+        "name": "Geo_Rock-Hallownest_Crown_Hidden",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Hallownest_Crown_Hidden.png"
+    },
+    {
+        "name": "Geo_Rock-Hallownest_Crown_Hidden_Dupe_1",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Hallownest_Crown_Hidden_Dupe_1.png"
+    },
+    {
+        "name": "Geo_Rock-Hallownest_Crown_Hidden_Dupe_2",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Hallownest_Crown_Hidden_Dupe_2.png"
+    },
+    {
+        "name": "Geo_Rock-Hive_Above_Mask",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Hive_Above_Mask.png"
+    },
+    {
+        "name": "Geo_Rock-Hive_After_Root",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Hive_After_Root.png"
+    },
+    {
+        "name": "Geo_Rock-Hive_Below_Grub",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Hive_Below_Grub.png"
+    },
+    {
+        "name": "Geo_Rock-Hive_Below_Root",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Hive_Below_Root.png"
+    },
+    {
+        "name": "Geo_Rock-Hive_Below_Stash",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Hive_Below_Stash.png"
+    },
+    {
+        "name": "Geo_Rock-Hive_Entrance",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Hive_Entrance.png"
+    },
+    {
+        "name": "Geo_Rock-Hive_Outside_Bench",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Hive_Outside_Bench.png"
+    },
+    {
+        "name": "Geo_Rock-Hive_Stash",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Hive_Stash.png"
+    },
+    {
+        "name": "Geo_Rock-Hive_Stash_Dupe",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Hive_Stash_Dupe.png"
+    },
+    {
+        "name": "Geo_Rock-Kingdoms_Edge_420_Geo_Rock",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Kingdoms_Edge_420_Geo_Rock.png"
+    },
+    {
+        "name": "Geo_Rock-Kingdoms_Edge_Above_420_Geo_Rock",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Kingdoms_Edge_Above_420_Geo_Rock.png"
+    },
+    {
+        "name": "Geo_Rock-Kingdoms_Edge_Above_Root",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Kingdoms_Edge_Above_Root.png"
+    },
+    {
+        "name": "Geo_Rock-Kingdoms_Edge_Above_Tower",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Kingdoms_Edge_Above_Tower.png"
+    },
+    {
+        "name": "Geo_Rock-Kingdoms_Edge_Below_Bardoon",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Kingdoms_Edge_Below_Bardoon.png"
+    },
+    {
+        "name": "Geo_Rock-Kingdoms_Edge_Below_Colosseum",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Kingdoms_Edge_Below_Colosseum.png"
+    },
+    {
+        "name": "Geo_Rock-Kingdoms_Edge_Oro_Far_Left",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Kingdoms_Edge_Oro_Far_Left.png"
+    },
+    {
+        "name": "Geo_Rock-Kingdoms_Edge_Oro_Middle_Left",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Kingdoms_Edge_Oro_Middle_Left.png"
+    },
+    {
+        "name": "Geo_Rock-Kings_Pass_Above_Fury",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Kings_Pass_Above_Fury.png"
+    },
+    {
+        "name": "Geo_Rock-Kings_Pass_Below_Fury",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Kings_Pass_Below_Fury.png"
+    },
+    {
+        "name": "Geo_Rock-Kings_Pass_Collapse",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Kings_Pass_Collapse.png"
+    },
+    {
+        "name": "Geo_Rock-Kings_Pass_Hidden",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Kings_Pass_Hidden.png"
+    },
+    {
+        "name": "Geo_Rock-Kings_Pass_Left",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Kings_Pass_Left.png"
+    },
+    {
+        "name": "Geo_Rock-Kings_Station",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Kings_Station.png"
+    },
+    {
+        "name": "Geo_Rock-Love_Key",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Love_Key.png"
+    },
+    {
+        "name": "Geo_Rock-Love_Key_Dupe",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Love_Key_Dupe.png"
+    },
+    {
+        "name": "Geo_Rock-Lower_Kingdoms_Edge_1",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Lower_Kingdoms_Edge_1.png"
+    },
+    {
+        "name": "Geo_Rock-Lower_Kingdoms_Edge_2",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Lower_Kingdoms_Edge_2.png"
+    },
+    {
+        "name": "Geo_Rock-Lower_Kingdoms_Edge_3",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Lower_Kingdoms_Edge_3.png"
+    },
+    {
+        "name": "Geo_Rock-Lower_Kingdoms_Edge_Dive",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Lower_Kingdoms_Edge_Dive.png"
+    },
+    {
+        "name": "Geo_Rock-Mantis_Outskirts_Alcove",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Mantis_Outskirts_Alcove.png"
+    },
+    {
+        "name": "Geo_Rock-Mantis_Outskirts_Guarded",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Mantis_Outskirts_Guarded.png"
+    },
+    {
+        "name": "Geo_Rock-Mantis_Outskirts_Guarded_Dupe",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Mantis_Outskirts_Guarded_Dupe.png"
+    },
+    {
+        "name": "Geo_Rock-Mantis_Village_Above_Claw",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Mantis_Village_Above_Claw.png"
+    },
+    {
+        "name": "Geo_Rock-Mantis_Village_Above_Claw_Dupe",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Mantis_Village_Above_Claw_Dupe.png"
+    },
+    {
+        "name": "Geo_Rock-Mantis_Village_Above_Lever",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Mantis_Village_Above_Lever.png"
+    },
+    {
+        "name": "Geo_Rock-Mantis_Village_After_Lever",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Mantis_Village_After_Lever.png"
+    },
+    {
+        "name": "Geo_Rock-Mantis_Village_Below_Lore",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Mantis_Village_Below_Lore.png"
+    },
+    {
+        "name": "Geo_Rock-Moss_Prophet",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Moss_Prophet.png"
+    },
+    {
+        "name": "Geo_Rock-Moss_Prophet_Dupe",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Moss_Prophet_Dupe.png"
+    },
+    {
+        "name": "Geo_Rock-Overgrown_Mound",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Overgrown_Mound.png"
+    },
+    {
+        "name": "Geo_Rock-Pale_Lurker",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Pale_Lurker.png"
+    },
+    {
+        "name": "Geo_Rock-Pleasure_House",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Pleasure_House.png"
+    },
+    {
+        "name": "Geo_Rock-Queens_Gardens_Above_Marmu",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Queens_Gardens_Above_Marmu.png"
+    },
+    {
+        "name": "Geo_Rock-Queens_Gardens_Acid_Entrance",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Queens_Gardens_Acid_Entrance.png"
+    },
+    {
+        "name": "Geo_Rock-Queens_Gardens_Below_Stag",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Queens_Gardens_Below_Stag.png"
+    },
+    {
+        "name": "Geo_Rock-Resting_Grounds_Catacombs_Grub",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Resting_Grounds_Catacombs_Grub.png"
+    },
+    {
+        "name": "Geo_Rock-Resting_Grounds_Catacombs_Left",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Resting_Grounds_Catacombs_Left.png"
+    },
+    {
+        "name": "Geo_Rock-Resting_Grounds_Catacombs_Left_Dupe",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Resting_Grounds_Catacombs_Left_Dupe.png"
+    },
+    {
+        "name": "Geo_Rock-Soul_Sanctum",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Soul_Sanctum.png"
+    },
+    {
+        "name": "Geo_Rock-Watchers_Spire",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Watchers_Spire.png"
+    },
+    {
+        "name": "Geo_Rock-Waterways_East",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Waterways_East.png"
+    },
+    {
+        "name": "Geo_Rock-Waterways_Flukemarm",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Waterways_Flukemarm.png"
+    },
+    {
+        "name": "Geo_Rock-Waterways_Left",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Waterways_Left.png"
+    },
+    {
+        "name": "Geo_Rock-Waterways_Tuk",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Waterways_Tuk.png"
+    },
+    {
+        "name": "Geo_Rock-Waterways_Tuk_Alcove",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Geo_Rock-Waterways_Tuk_Alcove.png"
+    },
+    {
+        "name": "Glowing_Womb",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Glowing_Womb.png"
+    },
+    {
+        "name": "Godtuner",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Godtuner.png"
+    },
+    {
+        "name": "Great_Slash",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Great_Slash.png"
+    },
+    {
+        "name": "Greenpath_Map",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Greenpath_Map.png"
+    },
+    {
+        "name": "Greenpath_Stag",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Greenpath_Stag.png"
+    },
+    {
+        "name": "Grimmchild",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Grimmchild.png"
+    },
+    {
+        "name": "Grimmkin_Flame-Ancient_Basin",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Grimmkin_Flame-Ancient_Basin.png"
+    },
+    {
+        "name": "Grimmkin_Flame-Brumm",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Grimmkin_Flame-Brumm.png"
+    },
+    {
+        "name": "Grimmkin_Flame-City_Storerooms",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Grimmkin_Flame-City_Storerooms.png"
+    },
+    {
+        "name": "Grimmkin_Flame-Crystal_Peak",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Grimmkin_Flame-Crystal_Peak.png"
+    },
+    {
+        "name": "Grimmkin_Flame-Fungal_Core",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Grimmkin_Flame-Fungal_Core.png"
+    },
+    {
+        "name": "Grimmkin_Flame-Greenpath",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Grimmkin_Flame-Greenpath.png"
+    },
+    {
+        "name": "Grimmkin_Flame-Hive",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Grimmkin_Flame-Hive.png"
+    },
+    {
+        "name": "Grimmkin_Flame-Kingdoms_Edge",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Grimmkin_Flame-Kingdoms_Edge.png"
+    },
+    {
+        "name": "Grimmkin_Flame-Kings_Pass",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Grimmkin_Flame-Kings_Pass.png"
+    },
+    {
+        "name": "Grimmkin_Flame-Resting_Grounds",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Grimmkin_Flame-Resting_Grounds.png"
+    },
+    {
+        "name": "Grub-Basin_Requires_Dive",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Grub-Basin_Requires_Dive.png"
+    },
+    {
+        "name": "Grub-Basin_Requires_Wings",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Grub-Basin_Requires_Wings.png"
+    },
+    {
+        "name": "Grub-Beasts_Den",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Grub-Beasts_Den.png"
+    },
+    {
+        "name": "Grub-City_of_Tears_Guarded",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Grub-City_of_Tears_Guarded.png"
+    },
+    {
+        "name": "Grub-City_of_Tears_Left",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Grub-City_of_Tears_Left.png"
+    },
+    {
+        "name": "Grub-Collector_1",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Grub-Collector_1.png"
+    },
+    {
+        "name": "Grub-Collector_2",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Grub-Collector_2.png"
+    },
+    {
+        "name": "Grub-Collector_3",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Grub-Collector_3.png"
+    },
+    {
+        "name": "Grub-Crossroads_Acid",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Grub-Crossroads_Acid.png"
+    },
+    {
+        "name": "Grub-Crossroads_Center",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Grub-Crossroads_Center.png"
+    },
+    {
+        "name": "Grub-Crossroads_Guarded",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Grub-Crossroads_Guarded.png"
+    },
+    {
+        "name": "Grub-Crossroads_Spike",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Grub-Crossroads_Spike.png"
+    },
+    {
+        "name": "Grub-Crossroads_Stag",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Grub-Crossroads_Stag.png"
+    },
+    {
+        "name": "Grub-Crystal_Heart",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Grub-Crystal_Heart.png"
+    },
+    {
+        "name": "Grub-Crystal_Peak_Below_Chest",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Grub-Crystal_Peak_Below_Chest.png"
+    },
+    {
+        "name": "Grub-Crystal_Peak_Crushers",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Grub-Crystal_Peak_Crushers.png"
+    },
+    {
+        "name": "Grub-Crystal_Peak_Mimic",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Grub-Crystal_Peak_Mimic.png"
+    },
+    {
+        "name": "Grub-Crystal_Peak_Spike",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Grub-Crystal_Peak_Spike.png"
+    },
+    {
+        "name": "Grub-Crystallized_Mound",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Grub-Crystallized_Mound.png"
+    },
+    {
+        "name": "Grub-Dark_Deepnest",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Grub-Dark_Deepnest.png"
+    },
+    {
+        "name": "Grub-Deepnest_Mimic",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Grub-Deepnest_Mimic.png"
+    },
+    {
+        "name": "Grub-Deepnest_Nosk",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Grub-Deepnest_Nosk.png"
+    },
+    {
+        "name": "Grub-Deepnest_Spike",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Grub-Deepnest_Spike.png"
+    },
+    {
+        "name": "Grub-Fog_Canyon",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Grub-Fog_Canyon.png"
+    },
+    {
+        "name": "Grub-Fungal_Bouncy",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Grub-Fungal_Bouncy.png"
+    },
+    {
+        "name": "Grub-Fungal_Spore_Shroom",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Grub-Fungal_Spore_Shroom.png"
+    },
+    {
+        "name": "Grub-Greenpath_Cornifer",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Grub-Greenpath_Cornifer.png"
+    },
+    {
+        "name": "Grub-Greenpath_Journal",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Grub-Greenpath_Journal.png"
+    },
+    {
+        "name": "Grub-Greenpath_MMC",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Grub-Greenpath_MMC.png"
+    },
+    {
+        "name": "Grub-Greenpath_Stag",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Grub-Greenpath_Stag.png"
+    },
+    {
+        "name": "Grub-Hallownest_Crown",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Grub-Hallownest_Crown.png"
+    },
+    {
+        "name": "Grub-Hive_External",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Grub-Hive_External.png"
+    },
+    {
+        "name": "Grub-Hive_Internal",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Grub-Hive_Internal.png"
+    },
+    {
+        "name": "Grub-Howling_Cliffs",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Grub-Howling_Cliffs.png"
+    },
+    {
+        "name": "Grub-Ismas_Grove",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Grub-Ismas_Grove.png"
+    },
+    {
+        "name": "Grub-Kingdoms_Edge_Camp",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Grub-Kingdoms_Edge_Camp.png"
+    },
+    {
+        "name": "Grub-Kingdoms_Edge_Oro",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Grub-Kingdoms_Edge_Oro.png"
+    },
+    {
+        "name": "Grub-Kings_Station",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Grub-Kings_Station.png"
+    },
+    {
+        "name": "Grub-Queens_Gardens_Marmu",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Grub-Queens_Gardens_Marmu.png"
+    },
+    {
+        "name": "Grub-Queens_Gardens_Stag",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Grub-Queens_Gardens_Stag.png"
+    },
+    {
+        "name": "Grub-Queens_Gardens_Top",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Grub-Queens_Gardens_Top.png"
+    },
+    {
+        "name": "Grub-Resting_Grounds",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Grub-Resting_Grounds.png"
+    },
+    {
+        "name": "Grub-Soul_Sanctum",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Grub-Soul_Sanctum.png"
+    },
+    {
+        "name": "Grub-Watchers_Spire",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Grub-Watchers_Spire.png"
+    },
+    {
+        "name": "Grub-Waterways_Main",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Grub-Waterways_Main.png"
+    },
+    {
+        "name": "Grub-Waterways_Requires_Tram",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Grub-Waterways_Requires_Tram.png"
+    },
+    {
+        "name": "Grubfather_1",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Grubfather_1.png"
+    },
+    {
+        "name": "Grubfather_10",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Grubfather_10.png"
+    },
+    {
+        "name": "Grubfather_11",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Grubfather_11.png"
+    },
+    {
+        "name": "Grubfather_12",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Grubfather_12.png"
+    },
+    {
+        "name": "Grubfather_13",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Grubfather_13.png"
+    },
+    {
+        "name": "Grubfather_14",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Grubfather_14.png"
+    },
+    {
+        "name": "Grubfather_15",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Grubfather_15.png"
+    },
+    {
+        "name": "Grubfather_16",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Grubfather_16.png"
+    },
+    {
+        "name": "Grubfather_2",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Grubfather_2.png"
+    },
+    {
+        "name": "Grubfather_3",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Grubfather_3.png"
+    },
+    {
+        "name": "Grubfather_4",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Grubfather_4.png"
+    },
+    {
+        "name": "Grubfather_5",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Grubfather_5.png"
+    },
+    {
+        "name": "Grubfather_6",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Grubfather_6.png"
+    },
+    {
+        "name": "Grubfather_7",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Grubfather_7.png"
+    },
+    {
+        "name": "Grubfather_8",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Grubfather_8.png"
+    },
+    {
+        "name": "Grubfather_9",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Grubfather_9.png"
+    },
+    {
+        "name": "Hallownest_Seal-Beasts_Den",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hallownest_Seal-Beasts_Den.png"
+    },
+    {
+        "name": "Hallownest_Seal-City_Rafters",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hallownest_Seal-City_Rafters.png"
+    },
+    {
+        "name": "Hallownest_Seal-Crossroads_Well",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hallownest_Seal-Crossroads_Well.png"
+    },
+    {
+        "name": "Hallownest_Seal-Deepnest_By_Mantis_Lords",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hallownest_Seal-Deepnest_By_Mantis_Lords.png"
+    },
+    {
+        "name": "Hallownest_Seal-Fog_Canyon_East",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hallownest_Seal-Fog_Canyon_East.png"
+    },
+    {
+        "name": "Hallownest_Seal-Fog_Canyon_West",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hallownest_Seal-Fog_Canyon_West.png"
+    },
+    {
+        "name": "Hallownest_Seal-Fungal_Wastes_Sporgs",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hallownest_Seal-Fungal_Wastes_Sporgs.png"
+    },
+    {
+        "name": "Hallownest_Seal-Greenpath",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hallownest_Seal-Greenpath.png"
+    },
+    {
+        "name": "Hallownest_Seal-Kings_Station",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hallownest_Seal-Kings_Station.png"
+    },
+    {
+        "name": "Hallownest_Seal-Mantis_Lords",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hallownest_Seal-Mantis_Lords.png"
+    },
+    {
+        "name": "Hallownest_Seal-Queens_Gardens",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hallownest_Seal-Queens_Gardens.png"
+    },
+    {
+        "name": "Hallownest_Seal-Queens_Station",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hallownest_Seal-Queens_Station.png"
+    },
+    {
+        "name": "Hallownest_Seal-Resting_Grounds_Catacombs",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hallownest_Seal-Resting_Grounds_Catacombs.png"
+    },
+    {
+        "name": "Hallownest_Seal-Soul_Sanctum",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hallownest_Seal-Soul_Sanctum.png"
+    },
+    {
+        "name": "Hallownest_Seal-Watcher_Knight",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hallownest_Seal-Watcher_Knight.png"
+    },
+    {
+        "name": "Herrah",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Herrah.png"
+    },
+    {
+        "name": "Hidden_Station_Stag",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hidden_Station_Stag.png"
+    },
+    {
+        "name": "Hiveblood",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hiveblood.png"
+    },
+    {
+        "name": "Howling_Cliffs_Map",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Howling_Cliffs_Map.png"
+    },
+    {
+        "name": "Howling_Wraiths",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Howling_Wraiths.png"
+    },
+    {
+        "name": "Hunters_Journal",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hunters_Journal.png"
+    },
+    {
+        "name": "Iselda_1",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Iselda_1.png"
+    },
+    {
+        "name": "Iselda_10",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Iselda_10.png"
+    },
+    {
+        "name": "Iselda_11",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Iselda_11.png"
+    },
+    {
+        "name": "Iselda_12",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Iselda_12.png"
+    },
+    {
+        "name": "Iselda_13",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Iselda_13.png"
+    },
+    {
+        "name": "Iselda_14",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Iselda_14.png"
+    },
+    {
+        "name": "Iselda_15",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Iselda_15.png"
+    },
+    {
+        "name": "Iselda_16",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Iselda_16.png"
+    },
+    {
+        "name": "Iselda_2",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Iselda_2.png"
+    },
+    {
+        "name": "Iselda_3",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Iselda_3.png"
+    },
+    {
+        "name": "Iselda_4",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Iselda_4.png"
+    },
+    {
+        "name": "Iselda_5",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Iselda_5.png"
+    },
+    {
+        "name": "Iselda_6",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Iselda_6.png"
+    },
+    {
+        "name": "Iselda_7",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Iselda_7.png"
+    },
+    {
+        "name": "Iselda_8",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Iselda_8.png"
+    },
+    {
+        "name": "Iselda_9",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Iselda_9.png"
+    },
+    {
+        "name": "Ismas_Tear",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Ismas_Tear.png"
+    },
+    {
+        "name": "Jonis_Blessing",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Jonis_Blessing.png"
+    },
+    {
+        "name": "Journal_Entry-Charged_Lumafly",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Journal_Entry-Charged_Lumafly.png"
+    },
+    {
+        "name": "Journal_Entry-Garpede",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Journal_Entry-Garpede.png"
+    },
+    {
+        "name": "Journal_Entry-Goam",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Journal_Entry-Goam.png"
+    },
+    {
+        "name": "Journal_Entry-Seal_of_Binding",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Journal_Entry-Seal_of_Binding.png"
+    },
+    {
+        "name": "Journal_Entry-Void_Tendrils",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Journal_Entry-Void_Tendrils.png"
+    },
+    {
+        "name": "King_Fragment",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/King_Fragment.png"
+    },
+    {
+        "name": "Kingdoms_Edge_Map",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Kingdoms_Edge_Map.png"
+    },
+    {
+        "name": "Kings_Brand",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Kings_Brand.png"
+    },
+    {
+        "name": "Kings_Idol-Cliffs",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Kings_Idol-Cliffs.png"
+    },
+    {
+        "name": "Kings_Idol-Crystal_Peak",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Kings_Idol-Crystal_Peak.png"
+    },
+    {
+        "name": "Kings_Idol-Deepnest",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Kings_Idol-Deepnest.png"
+    },
+    {
+        "name": "Kings_Idol-Dung_Defender",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Kings_Idol-Dung_Defender.png"
+    },
+    {
+        "name": "Kings_Idol-Glade_of_Hope",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Kings_Idol-Glade_of_Hope.png"
+    },
+    {
+        "name": "Kings_Idol-Great_Hopper",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Kings_Idol-Great_Hopper.png"
+    },
+    {
+        "name": "Kings_Idol-Pale_Lurker",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Kings_Idol-Pale_Lurker.png"
+    },
+    {
+        "name": "Kings_Station_Stag",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Kings_Station_Stag.png"
+    },
+    {
+        "name": "Left_Mantis_Claw",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Left_Mantis_Claw.png"
+    },
+    {
+        "name": "Leftslash",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Leftslash.png"
+    },
+    {
+        "name": "Leg_Eater_1",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Leg_Eater_1.png"
+    },
+    {
+        "name": "Leg_Eater_10",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Leg_Eater_10.png"
+    },
+    {
+        "name": "Leg_Eater_11",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Leg_Eater_11.png"
+    },
+    {
+        "name": "Leg_Eater_12",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Leg_Eater_12.png"
+    },
+    {
+        "name": "Leg_Eater_13",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Leg_Eater_13.png"
+    },
+    {
+        "name": "Leg_Eater_14",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Leg_Eater_14.png"
+    },
+    {
+        "name": "Leg_Eater_15",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Leg_Eater_15.png"
+    },
+    {
+        "name": "Leg_Eater_16",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Leg_Eater_16.png"
+    },
+    {
+        "name": "Leg_Eater_2",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Leg_Eater_2.png"
+    },
+    {
+        "name": "Leg_Eater_3",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Leg_Eater_3.png"
+    },
+    {
+        "name": "Leg_Eater_4",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Leg_Eater_4.png"
+    },
+    {
+        "name": "Leg_Eater_5",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Leg_Eater_5.png"
+    },
+    {
+        "name": "Leg_Eater_6",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Leg_Eater_6.png"
+    },
+    {
+        "name": "Leg_Eater_7",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Leg_Eater_7.png"
+    },
+    {
+        "name": "Leg_Eater_8",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Leg_Eater_8.png"
+    },
+    {
+        "name": "Leg_Eater_9",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Leg_Eater_9.png"
+    },
+    {
+        "name": "Lifeblood_Cocoon-Ancestral_Mound",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Lifeblood_Cocoon-Ancestral_Mound.png"
+    },
+    {
+        "name": "Lifeblood_Cocoon-Failed_Tramway",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Lifeblood_Cocoon-Failed_Tramway.png"
+    },
+    {
+        "name": "Lifeblood_Cocoon-Fog_Canyon_West",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Lifeblood_Cocoon-Fog_Canyon_West.png"
+    },
+    {
+        "name": "Lifeblood_Cocoon-Galien",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Lifeblood_Cocoon-Galien.png"
+    },
+    {
+        "name": "Lifeblood_Cocoon-Greenpath",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Lifeblood_Cocoon-Greenpath.png"
+    },
+    {
+        "name": "Lifeblood_Cocoon-Kingdoms_Edge",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Lifeblood_Cocoon-Kingdoms_Edge.png"
+    },
+    {
+        "name": "Lifeblood_Cocoon-Kings_Pass",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Lifeblood_Cocoon-Kings_Pass.png"
+    },
+    {
+        "name": "Lifeblood_Cocoon-Mantis_Village",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Lifeblood_Cocoon-Mantis_Village.png"
+    },
+    {
+        "name": "Lifeblood_Core",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Lifeblood_Core.png"
+    },
+    {
+        "name": "Lore_Tablet-Ancient_Basin",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Lore_Tablet-Ancient_Basin.png"
+    },
+    {
+        "name": "Lore_Tablet-Archives_Left",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Lore_Tablet-Archives_Left.png"
+    },
+    {
+        "name": "Lore_Tablet-Archives_Right",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Lore_Tablet-Archives_Right.png"
+    },
+    {
+        "name": "Lore_Tablet-Archives_Upper",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Lore_Tablet-Archives_Upper.png"
+    },
+    {
+        "name": "Lore_Tablet-City_Entrance",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Lore_Tablet-City_Entrance.png"
+    },
+    {
+        "name": "Lore_Tablet-Dung_Defender",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Lore_Tablet-Dung_Defender.png"
+    },
+    {
+        "name": "Lore_Tablet-Fungal_Core",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Lore_Tablet-Fungal_Core.png"
+    },
+    {
+        "name": "Lore_Tablet-Fungal_Wastes_Below_Shrumal_Ogres",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Lore_Tablet-Fungal_Wastes_Below_Shrumal_Ogres.png"
+    },
+    {
+        "name": "Lore_Tablet-Fungal_Wastes_Hidden",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Lore_Tablet-Fungal_Wastes_Hidden.png"
+    },
+    {
+        "name": "Lore_Tablet-Greenpath_Below_Toll",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Lore_Tablet-Greenpath_Below_Toll.png"
+    },
+    {
+        "name": "Lore_Tablet-Greenpath_Lifeblood",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Lore_Tablet-Greenpath_Lifeblood.png"
+    },
+    {
+        "name": "Lore_Tablet-Greenpath_Lower_Hidden",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Lore_Tablet-Greenpath_Lower_Hidden.png"
+    },
+    {
+        "name": "Lore_Tablet-Greenpath_QG",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Lore_Tablet-Greenpath_QG.png"
+    },
+    {
+        "name": "Lore_Tablet-Greenpath_Stag",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Lore_Tablet-Greenpath_Stag.png"
+    },
+    {
+        "name": "Lore_Tablet-Greenpath_Upper_Hidden",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Lore_Tablet-Greenpath_Upper_Hidden.png"
+    },
+    {
+        "name": "Lore_Tablet-Howling_Cliffs",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Lore_Tablet-Howling_Cliffs.png"
+    },
+    {
+        "name": "Lore_Tablet-Kingdoms_Edge",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Lore_Tablet-Kingdoms_Edge.png"
+    },
+    {
+        "name": "Lore_Tablet-Kings_Pass_Exit",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Lore_Tablet-Kings_Pass_Exit.png"
+    },
+    {
+        "name": "Lore_Tablet-Kings_Pass_Focus",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Lore_Tablet-Kings_Pass_Focus.png"
+    },
+    {
+        "name": "Lore_Tablet-Kings_Pass_Fury",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Lore_Tablet-Kings_Pass_Fury.png"
+    },
+    {
+        "name": "Lore_Tablet-Mantis_Outskirts",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Lore_Tablet-Mantis_Outskirts.png"
+    },
+    {
+        "name": "Lore_Tablet-Mantis_Village",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Lore_Tablet-Mantis_Village.png"
+    },
+    {
+        "name": "Lore_Tablet-Palace_Throne",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Lore_Tablet-Palace_Throne.png"
+    },
+    {
+        "name": "Lore_Tablet-Palace_Workshop",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Lore_Tablet-Palace_Workshop.png"
+    },
+    {
+        "name": "Lore_Tablet-Path_of_Pain_Entrance",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Lore_Tablet-Path_of_Pain_Entrance.png"
+    },
+    {
+        "name": "Lore_Tablet-Pilgrims_Way_1",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Lore_Tablet-Pilgrims_Way_1.png"
+    },
+    {
+        "name": "Lore_Tablet-Pilgrims_Way_2",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Lore_Tablet-Pilgrims_Way_2.png"
+    },
+    {
+        "name": "Lore_Tablet-Pleasure_House",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Lore_Tablet-Pleasure_House.png"
+    },
+    {
+        "name": "Lore_Tablet-Sanctum_Entrance",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Lore_Tablet-Sanctum_Entrance.png"
+    },
+    {
+        "name": "Lore_Tablet-Sanctum_Past_Soul_Master",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Lore_Tablet-Sanctum_Past_Soul_Master.png"
+    },
+    {
+        "name": "Lore_Tablet-Spore_Shroom",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Lore_Tablet-Spore_Shroom.png"
+    },
+    {
+        "name": "Lore_Tablet-Watchers_Spire",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Lore_Tablet-Watchers_Spire.png"
+    },
+    {
+        "name": "Lore_Tablet-World_Sense",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Lore_Tablet-World_Sense.png"
+    },
+    {
+        "name": "Love_Key",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Love_Key.png"
+    },
+    {
+        "name": "Lumafly_Escape-Junk_Pit_Chest_4",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Lumafly_Escape-Junk_Pit_Chest_4.png"
+    },
+    {
+        "name": "Lurien",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Lurien.png"
+    },
+    {
+        "name": "Mantis_Claw",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Mantis_Claw.png"
+    },
+    {
+        "name": "Mark_of_Pride",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Mark_of_Pride.png"
+    },
+    {
+        "name": "Mask_Shard-Bretta",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Mask_Shard-Bretta.png"
+    },
+    {
+        "name": "Mask_Shard-Brooding_Mawlek",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Mask_Shard-Brooding_Mawlek.png"
+    },
+    {
+        "name": "Mask_Shard-Crossroads_Goam",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Mask_Shard-Crossroads_Goam.png"
+    },
+    {
+        "name": "Mask_Shard-Deepnest",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Mask_Shard-Deepnest.png"
+    },
+    {
+        "name": "Mask_Shard-Enraged_Guardian",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Mask_Shard-Enraged_Guardian.png"
+    },
+    {
+        "name": "Mask_Shard-Grey_Mourner",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Mask_Shard-Grey_Mourner.png"
+    },
+    {
+        "name": "Mask_Shard-Hive",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Mask_Shard-Hive.png"
+    },
+    {
+        "name": "Mask_Shard-Queens_Station",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Mask_Shard-Queens_Station.png"
+    },
+    {
+        "name": "Mask_Shard-Stone_Sanctuary",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Mask_Shard-Stone_Sanctuary.png"
+    },
+    {
+        "name": "Mask_Shard-Waterways",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Mask_Shard-Waterways.png"
+    },
+    {
+        "name": "Mimic_Grub-Crystal_Peak",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Mimic_Grub-Crystal_Peak.png"
+    },
+    {
+        "name": "Mimic_Grub-Deepnest_1",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Mimic_Grub-Deepnest_1.png"
+    },
+    {
+        "name": "Mimic_Grub-Deepnest_2",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Mimic_Grub-Deepnest_2.png"
+    },
+    {
+        "name": "Mimic_Grub-Deepnest_3",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Mimic_Grub-Deepnest_3.png"
+    },
+    {
+        "name": "Monarch_Wings",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Monarch_Wings.png"
+    },
+    {
+        "name": "Monomon",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Monomon.png"
+    },
+    {
+        "name": "Mothwing_Cloak",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Mothwing_Cloak.png"
+    },
+    {
+        "name": "Nailmasters_Glory",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Nailmasters_Glory.png"
+    },
+    {
+        "name": "Pale_Ore-Basin",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Pale_Ore-Basin.png"
+    },
+    {
+        "name": "Pale_Ore-Colosseum",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Pale_Ore-Colosseum.png"
+    },
+    {
+        "name": "Pale_Ore-Crystal_Peak",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Pale_Ore-Crystal_Peak.png"
+    },
+    {
+        "name": "Pale_Ore-Nosk",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Pale_Ore-Nosk.png"
+    },
+    {
+        "name": "Queen_Fragment",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Queen_Fragment.png"
+    },
+    {
+        "name": "Queens_Gardens_Map",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Queens_Gardens_Map.png"
+    },
+    {
+        "name": "Queens_Gardens_Stag",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Queens_Gardens_Stag.png"
+    },
+    {
+        "name": "Queens_Station_Stag",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Queens_Station_Stag.png"
+    },
+    {
+        "name": "Quick_Slash",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Quick_Slash.png"
+    },
+    {
+        "name": "Rancid_Egg-Beasts_Den",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Rancid_Egg-Beasts_Den.png"
+    },
+    {
+        "name": "Rancid_Egg-Blue_Lake",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Rancid_Egg-Blue_Lake.png"
+    },
+    {
+        "name": "Rancid_Egg-City_of_Tears_Left",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Rancid_Egg-City_of_Tears_Left.png"
+    },
+    {
+        "name": "Rancid_Egg-City_of_Tears_Pleasure_House",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Rancid_Egg-City_of_Tears_Pleasure_House.png"
+    },
+    {
+        "name": "Rancid_Egg-Crystal_Peak_Dark_Room",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Rancid_Egg-Crystal_Peak_Dark_Room.png"
+    },
+    {
+        "name": "Rancid_Egg-Crystal_Peak_Dive_Entrance",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Rancid_Egg-Crystal_Peak_Dive_Entrance.png"
+    },
+    {
+        "name": "Rancid_Egg-Crystal_Peak_Tall_Room",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Rancid_Egg-Crystal_Peak_Tall_Room.png"
+    },
+    {
+        "name": "Rancid_Egg-Dark_Deepnest",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Rancid_Egg-Dark_Deepnest.png"
+    },
+    {
+        "name": "Rancid_Egg-Fungal_Core",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Rancid_Egg-Fungal_Core.png"
+    },
+    {
+        "name": "Rancid_Egg-Near_Quick_Slash",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Rancid_Egg-Near_Quick_Slash.png"
+    },
+    {
+        "name": "Rancid_Egg-Queens_Gardens",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Rancid_Egg-Queens_Gardens.png"
+    },
+    {
+        "name": "Rancid_Egg-Sheo",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Rancid_Egg-Sheo.png"
+    },
+    {
+        "name": "Rancid_Egg-Tuk_Defenders_Crest",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Rancid_Egg-Tuk_Defenders_Crest.png"
+    },
+    {
+        "name": "Rancid_Egg-Upper_Kingdoms_Edge",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Rancid_Egg-Upper_Kingdoms_Edge.png"
+    },
+    {
+        "name": "Rancid_Egg-Waterways_East",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Rancid_Egg-Waterways_East.png"
+    },
+    {
+        "name": "Rancid_Egg-Waterways_Main",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Rancid_Egg-Waterways_Main.png"
+    },
+    {
+        "name": "Rancid_Egg-Waterways_West_Bluggsac",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Rancid_Egg-Waterways_West_Bluggsac.png"
+    },
+    {
+        "name": "Rancid_Egg-Waterways_West_Pickup",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Rancid_Egg-Waterways_West_Pickup.png"
+    },
+    {
+        "name": "Rancid_Egg-Weavers_Den",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Rancid_Egg-Weavers_Den.png"
+    },
+    {
+        "name": "Resting_Grounds_Map",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Resting_Grounds_Map.png"
+    },
+    {
+        "name": "Resting_Grounds_Stag",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Resting_Grounds_Stag.png"
+    },
+    {
+        "name": "Right_Mantis_Claw",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Right_Mantis_Claw.png"
+    },
+    {
+        "name": "Rightslash",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Rightslash.png"
+    },
+    {
+        "name": "Royal_Waterways_Map",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Royal_Waterways_Map.png"
+    },
+    {
+        "name": "Salubra_(Requires_Charms)_1",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Salubra_(Requires_Charms)_1.png"
+    },
+    {
+        "name": "Salubra_(Requires_Charms)_10",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Salubra_(Requires_Charms)_10.png"
+    },
+    {
+        "name": "Salubra_(Requires_Charms)_11",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Salubra_(Requires_Charms)_11.png"
+    },
+    {
+        "name": "Salubra_(Requires_Charms)_12",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Salubra_(Requires_Charms)_12.png"
+    },
+    {
+        "name": "Salubra_(Requires_Charms)_13",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Salubra_(Requires_Charms)_13.png"
+    },
+    {
+        "name": "Salubra_(Requires_Charms)_14",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Salubra_(Requires_Charms)_14.png"
+    },
+    {
+        "name": "Salubra_(Requires_Charms)_15",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Salubra_(Requires_Charms)_15.png"
+    },
+    {
+        "name": "Salubra_(Requires_Charms)_16",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Salubra_(Requires_Charms)_16.png"
+    },
+    {
+        "name": "Salubra_(Requires_Charms)_2",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Salubra_(Requires_Charms)_2.png"
+    },
+    {
+        "name": "Salubra_(Requires_Charms)_3",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Salubra_(Requires_Charms)_3.png"
+    },
+    {
+        "name": "Salubra_(Requires_Charms)_4",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Salubra_(Requires_Charms)_4.png"
+    },
+    {
+        "name": "Salubra_(Requires_Charms)_5",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Salubra_(Requires_Charms)_5.png"
+    },
+    {
+        "name": "Salubra_(Requires_Charms)_6",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Salubra_(Requires_Charms)_6.png"
+    },
+    {
+        "name": "Salubra_(Requires_Charms)_7",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Salubra_(Requires_Charms)_7.png"
+    },
+    {
+        "name": "Salubra_(Requires_Charms)_8",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Salubra_(Requires_Charms)_8.png"
+    },
+    {
+        "name": "Salubra_(Requires_Charms)_9",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Salubra_(Requires_Charms)_9.png"
+    },
+    {
+        "name": "Salubra_1",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Salubra_1.png"
+    },
+    {
+        "name": "Salubra_10",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Salubra_10.png"
+    },
+    {
+        "name": "Salubra_11",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Salubra_11.png"
+    },
+    {
+        "name": "Salubra_12",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Salubra_12.png"
+    },
+    {
+        "name": "Salubra_13",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Salubra_13.png"
+    },
+    {
+        "name": "Salubra_14",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Salubra_14.png"
+    },
+    {
+        "name": "Salubra_15",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Salubra_15.png"
+    },
+    {
+        "name": "Salubra_16",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Salubra_16.png"
+    },
+    {
+        "name": "Salubra_2",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Salubra_2.png"
+    },
+    {
+        "name": "Salubra_3",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Salubra_3.png"
+    },
+    {
+        "name": "Salubra_4",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Salubra_4.png"
+    },
+    {
+        "name": "Salubra_5",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Salubra_5.png"
+    },
+    {
+        "name": "Salubra_6",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Salubra_6.png"
+    },
+    {
+        "name": "Salubra_7",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Salubra_7.png"
+    },
+    {
+        "name": "Salubra_8",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Salubra_8.png"
+    },
+    {
+        "name": "Salubra_9",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Salubra_9.png"
+    },
+    {
+        "name": "Seer_1",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Seer_1.png"
+    },
+    {
+        "name": "Seer_10",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Seer_10.png"
+    },
+    {
+        "name": "Seer_11",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Seer_11.png"
+    },
+    {
+        "name": "Seer_12",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Seer_12.png"
+    },
+    {
+        "name": "Seer_13",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Seer_13.png"
+    },
+    {
+        "name": "Seer_14",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Seer_14.png"
+    },
+    {
+        "name": "Seer_15",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Seer_15.png"
+    },
+    {
+        "name": "Seer_16",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Seer_16.png"
+    },
+    {
+        "name": "Seer_2",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Seer_2.png"
+    },
+    {
+        "name": "Seer_3",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Seer_3.png"
+    },
+    {
+        "name": "Seer_4",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Seer_4.png"
+    },
+    {
+        "name": "Seer_5",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Seer_5.png"
+    },
+    {
+        "name": "Seer_6",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Seer_6.png"
+    },
+    {
+        "name": "Seer_7",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Seer_7.png"
+    },
+    {
+        "name": "Seer_8",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Seer_8.png"
+    },
+    {
+        "name": "Seer_9",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Seer_9.png"
+    },
+    {
+        "name": "Shade_Cloak",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Shade_Cloak.png"
+    },
+    {
+        "name": "Shade_Soul",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Shade_Soul.png"
+    },
+    {
+        "name": "Shape_of_Unn",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Shape_of_Unn.png"
+    },
+    {
+        "name": "Sharp_Shadow",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Sharp_Shadow.png"
+    },
+    {
+        "name": "Shopkeepers_Key",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Shopkeepers_Key.png"
+    },
+    {
+        "name": "Simple_Key-Basin",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Simple_Key-Basin.png"
+    },
+    {
+        "name": "Simple_Key-City",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Simple_Key-City.png"
+    },
+    {
+        "name": "Simple_Key-Lurker",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Simple_Key-Lurker.png"
+    },
+    {
+        "name": "Sly_(Key)_1",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Sly_(Key)_1.png"
+    },
+    {
+        "name": "Sly_(Key)_10",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Sly_(Key)_10.png"
+    },
+    {
+        "name": "Sly_(Key)_11",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Sly_(Key)_11.png"
+    },
+    {
+        "name": "Sly_(Key)_12",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Sly_(Key)_12.png"
+    },
+    {
+        "name": "Sly_(Key)_13",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Sly_(Key)_13.png"
+    },
+    {
+        "name": "Sly_(Key)_14",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Sly_(Key)_14.png"
+    },
+    {
+        "name": "Sly_(Key)_15",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Sly_(Key)_15.png"
+    },
+    {
+        "name": "Sly_(Key)_16",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Sly_(Key)_16.png"
+    },
+    {
+        "name": "Sly_(Key)_2",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Sly_(Key)_2.png"
+    },
+    {
+        "name": "Sly_(Key)_3",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Sly_(Key)_3.png"
+    },
+    {
+        "name": "Sly_(Key)_4",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Sly_(Key)_4.png"
+    },
+    {
+        "name": "Sly_(Key)_5",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Sly_(Key)_5.png"
+    },
+    {
+        "name": "Sly_(Key)_6",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Sly_(Key)_6.png"
+    },
+    {
+        "name": "Sly_(Key)_7",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Sly_(Key)_7.png"
+    },
+    {
+        "name": "Sly_(Key)_8",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Sly_(Key)_8.png"
+    },
+    {
+        "name": "Sly_(Key)_9",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Sly_(Key)_9.png"
+    },
+    {
+        "name": "Sly_1",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Sly_1.png"
+    },
+    {
+        "name": "Sly_10",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Sly_10.png"
+    },
+    {
+        "name": "Sly_11",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Sly_11.png"
+    },
+    {
+        "name": "Sly_12",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Sly_12.png"
+    },
+    {
+        "name": "Sly_13",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Sly_13.png"
+    },
+    {
+        "name": "Sly_14",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Sly_14.png"
+    },
+    {
+        "name": "Sly_15",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Sly_15.png"
+    },
+    {
+        "name": "Sly_16",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Sly_16.png"
+    },
+    {
+        "name": "Sly_2",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Sly_2.png"
+    },
+    {
+        "name": "Sly_3",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Sly_3.png"
+    },
+    {
+        "name": "Sly_4",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Sly_4.png"
+    },
+    {
+        "name": "Sly_5",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Sly_5.png"
+    },
+    {
+        "name": "Sly_6",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Sly_6.png"
+    },
+    {
+        "name": "Sly_7",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Sly_7.png"
+    },
+    {
+        "name": "Sly_8",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Sly_8.png"
+    },
+    {
+        "name": "Sly_9",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Sly_9.png"
+    },
+    {
+        "name": "Soul_Catcher",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Soul_Catcher.png"
+    },
+    {
+        "name": "Soul_Eater",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Soul_Eater.png"
+    },
+    {
+        "name": "Soul_Totem-420_Geo_Rock",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Soul_Totem-420_Geo_Rock.png"
+    },
+    {
+        "name": "Soul_Totem-Ancestral_Mound",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Soul_Totem-Ancestral_Mound.png"
+    },
+    {
+        "name": "Soul_Totem-Basin",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Soul_Totem-Basin.png"
+    },
+    {
+        "name": "Soul_Totem-Beasts_Den",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Soul_Totem-Beasts_Den.png"
+    },
+    {
+        "name": "Soul_Totem-Before_Pilgrims_Way",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Soul_Totem-Before_Pilgrims_Way.png"
+    },
+    {
+        "name": "Soul_Totem-Below_Marmu",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Soul_Totem-Below_Marmu.png"
+    },
+    {
+        "name": "Soul_Totem-Below_Xero",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Soul_Totem-Below_Xero.png"
+    },
+    {
+        "name": "Soul_Totem-Cliffs_Gorb",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Soul_Totem-Cliffs_Gorb.png"
+    },
+    {
+        "name": "Soul_Totem-Cliffs_Jonis",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Soul_Totem-Cliffs_Jonis.png"
+    },
+    {
+        "name": "Soul_Totem-Cliffs_Main",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Soul_Totem-Cliffs_Main.png"
+    },
+    {
+        "name": "Soul_Totem-Crossroads_Acid",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Soul_Totem-Crossroads_Acid.png"
+    },
+    {
+        "name": "Soul_Totem-Crossroads_Goam_Journal",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Soul_Totem-Crossroads_Goam_Journal.png"
+    },
+    {
+        "name": "Soul_Totem-Crossroads_Mawlek_Lower",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Soul_Totem-Crossroads_Mawlek_Lower.png"
+    },
+    {
+        "name": "Soul_Totem-Crossroads_Mawlek_Upper",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Soul_Totem-Crossroads_Mawlek_Upper.png"
+    },
+    {
+        "name": "Soul_Totem-Crossroads_Myla",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Soul_Totem-Crossroads_Myla.png"
+    },
+    {
+        "name": "Soul_Totem-Crossroads_Shops",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Soul_Totem-Crossroads_Shops.png"
+    },
+    {
+        "name": "Soul_Totem-Crystal_Heart_1",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Soul_Totem-Crystal_Heart_1.png"
+    },
+    {
+        "name": "Soul_Totem-Crystal_Heart_2",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Soul_Totem-Crystal_Heart_2.png"
+    },
+    {
+        "name": "Soul_Totem-Crystallized_Mound",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Soul_Totem-Crystallized_Mound.png"
+    },
+    {
+        "name": "Soul_Totem-Deepnest_Vessel",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Soul_Totem-Deepnest_Vessel.png"
+    },
+    {
+        "name": "Soul_Totem-Distant_Village",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Soul_Totem-Distant_Village.png"
+    },
+    {
+        "name": "Soul_Totem-Fungal_Core",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Soul_Totem-Fungal_Core.png"
+    },
+    {
+        "name": "Soul_Totem-Greenpath_Below_Toll",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Soul_Totem-Greenpath_Below_Toll.png"
+    },
+    {
+        "name": "Soul_Totem-Greenpath_Hunters_Journal",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Soul_Totem-Greenpath_Hunters_Journal.png"
+    },
+    {
+        "name": "Soul_Totem-Greenpath_MMC",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Soul_Totem-Greenpath_MMC.png"
+    },
+    {
+        "name": "Soul_Totem-Hallownest_Crown",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Soul_Totem-Hallownest_Crown.png"
+    },
+    {
+        "name": "Soul_Totem-Kingdoms_Edge_Camp",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Soul_Totem-Kingdoms_Edge_Camp.png"
+    },
+    {
+        "name": "Soul_Totem-Lower_Kingdoms_Edge_1",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Soul_Totem-Lower_Kingdoms_Edge_1.png"
+    },
+    {
+        "name": "Soul_Totem-Lower_Kingdoms_Edge_2",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Soul_Totem-Lower_Kingdoms_Edge_2.png"
+    },
+    {
+        "name": "Soul_Totem-Mask_Maker",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Soul_Totem-Mask_Maker.png"
+    },
+    {
+        "name": "Soul_Totem-Oro",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Soul_Totem-Oro.png"
+    },
+    {
+        "name": "Soul_Totem-Oro_Dive_1",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Soul_Totem-Oro_Dive_1.png"
+    },
+    {
+        "name": "Soul_Totem-Oro_Dive_2",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Soul_Totem-Oro_Dive_2.png"
+    },
+    {
+        "name": "Soul_Totem-Outside_Crystallized_Mound",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Soul_Totem-Outside_Crystallized_Mound.png"
+    },
+    {
+        "name": "Soul_Totem-Pale_Lurker",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Soul_Totem-Pale_Lurker.png"
+    },
+    {
+        "name": "Soul_Totem-Path_of_Pain_Below_Lever",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Soul_Totem-Path_of_Pain_Below_Lever.png"
+    },
+    {
+        "name": "Soul_Totem-Path_of_Pain_Below_Thornskip",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Soul_Totem-Path_of_Pain_Below_Thornskip.png"
+    },
+    {
+        "name": "Soul_Totem-Path_of_Pain_Entrance",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Soul_Totem-Path_of_Pain_Entrance.png"
+    },
+    {
+        "name": "Soul_Totem-Path_of_Pain_Final",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Soul_Totem-Path_of_Pain_Final.png"
+    },
+    {
+        "name": "Soul_Totem-Path_of_Pain_Hidden",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Soul_Totem-Path_of_Pain_Hidden.png"
+    },
+    {
+        "name": "Soul_Totem-Path_of_Pain_Left_of_Lever",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Soul_Totem-Path_of_Pain_Left_of_Lever.png"
+    },
+    {
+        "name": "Soul_Totem-Path_of_Pain_Second",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Soul_Totem-Path_of_Pain_Second.png"
+    },
+    {
+        "name": "Soul_Totem-Pilgrims_Way",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Soul_Totem-Pilgrims_Way.png"
+    },
+    {
+        "name": "Soul_Totem-Resting_Grounds",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Soul_Totem-Resting_Grounds.png"
+    },
+    {
+        "name": "Soul_Totem-Sanctum_Above_Grub",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Soul_Totem-Sanctum_Above_Grub.png"
+    },
+    {
+        "name": "Soul_Totem-Sanctum_Below_Chest",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Soul_Totem-Sanctum_Below_Chest.png"
+    },
+    {
+        "name": "Soul_Totem-Sanctum_Below_Soul_Master",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Soul_Totem-Sanctum_Below_Soul_Master.png"
+    },
+    {
+        "name": "Soul_Totem-Top_Left_Queens_Gardens",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Soul_Totem-Top_Left_Queens_Gardens.png"
+    },
+    {
+        "name": "Soul_Totem-Top_Left_Waterways",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Soul_Totem-Top_Left_Waterways.png"
+    },
+    {
+        "name": "Soul_Totem-Upper_Crystal_Peak",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Soul_Totem-Upper_Crystal_Peak.png"
+    },
+    {
+        "name": "Soul_Totem-Upper_Kingdoms_Edge",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Soul_Totem-Upper_Kingdoms_Edge.png"
+    },
+    {
+        "name": "Soul_Totem-Waterways_East",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Soul_Totem-Waterways_East.png"
+    },
+    {
+        "name": "Soul_Totem-Waterways_Entrance",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Soul_Totem-Waterways_Entrance.png"
+    },
+    {
+        "name": "Soul_Totem-Waterways_Flukemarm",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Soul_Totem-Waterways_Flukemarm.png"
+    },
+    {
+        "name": "Soul_Totem-White_Palace_Entrance",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Soul_Totem-White_Palace_Entrance.png"
+    },
+    {
+        "name": "Soul_Totem-White_Palace_Final",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Soul_Totem-White_Palace_Final.png"
+    },
+    {
+        "name": "Soul_Totem-White_Palace_Hub",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Soul_Totem-White_Palace_Hub.png"
+    },
+    {
+        "name": "Soul_Totem-White_Palace_Left",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Soul_Totem-White_Palace_Left.png"
+    },
+    {
+        "name": "Soul_Totem-White_Palace_Right",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Soul_Totem-White_Palace_Right.png"
+    },
+    {
+        "name": "Spell_Twister",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Spell_Twister.png"
+    },
+    {
+        "name": "Split_Crystal_Heart",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Split_Crystal_Heart.png"
+    },
+    {
+        "name": "Split_Mothwing_Cloak",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Split_Mothwing_Cloak.png"
+    },
+    {
+        "name": "Spore_Shroom",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Spore_Shroom.png"
+    },
+    {
+        "name": "Stag_Nest_Stag",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Stag_Nest_Stag.png"
+    },
+    {
+        "name": "Thorns_of_Agony",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Thorns_of_Agony.png"
+    },
+    {
+        "name": "Tram_Pass",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Tram_Pass.png"
+    },
+    {
+        "name": "Unbreakable_Greed",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Unbreakable_Greed.png"
+    },
+    {
+        "name": "Unbreakable_Heart",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Unbreakable_Heart.png"
+    },
+    {
+        "name": "Unbreakable_Strength",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Unbreakable_Strength.png"
+    },
+    {
+        "name": "Upslash",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Upslash.png"
+    },
+    {
+        "name": "Vengeful_Spirit",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Vengeful_Spirit.png"
+    },
+    {
+        "name": "Vessel_Fragment-Basin",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Vessel_Fragment-Basin.png"
+    },
+    {
+        "name": "Vessel_Fragment-City",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Vessel_Fragment-City.png"
+    },
+    {
+        "name": "Vessel_Fragment-Crossroads",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Vessel_Fragment-Crossroads.png"
+    },
+    {
+        "name": "Vessel_Fragment-Deepnest",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Vessel_Fragment-Deepnest.png"
+    },
+    {
+        "name": "Vessel_Fragment-Greenpath",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Vessel_Fragment-Greenpath.png"
+    },
+    {
+        "name": "Vessel_Fragment-Stag_Nest",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Vessel_Fragment-Stag_Nest.png"
+    },
+    {
+        "name": "Void_Heart",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Void_Heart.png"
+    },
+    {
+        "name": "Wanderers_Journal-Above_Mantis_Village",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Wanderers_Journal-Above_Mantis_Village.png"
+    },
+    {
+        "name": "Wanderers_Journal-Ancient_Basin",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Wanderers_Journal-Ancient_Basin.png"
+    },
+    {
+        "name": "Wanderers_Journal-City_Storerooms",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Wanderers_Journal-City_Storerooms.png"
+    },
+    {
+        "name": "Wanderers_Journal-Cliffs",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Wanderers_Journal-Cliffs.png"
+    },
+    {
+        "name": "Wanderers_Journal-Crystal_Peak_Crawlers",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Wanderers_Journal-Crystal_Peak_Crawlers.png"
+    },
+    {
+        "name": "Wanderers_Journal-Fungal_Wastes_Thorns_Gauntlet",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Wanderers_Journal-Fungal_Wastes_Thorns_Gauntlet.png"
+    },
+    {
+        "name": "Wanderers_Journal-Greenpath_Lower",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Wanderers_Journal-Greenpath_Lower.png"
+    },
+    {
+        "name": "Wanderers_Journal-Greenpath_Stag",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Wanderers_Journal-Greenpath_Stag.png"
+    },
+    {
+        "name": "Wanderers_Journal-Kingdoms_Edge_Camp",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Wanderers_Journal-Kingdoms_Edge_Camp.png"
+    },
+    {
+        "name": "Wanderers_Journal-Kingdoms_Edge_Entrance",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Wanderers_Journal-Kingdoms_Edge_Entrance.png"
+    },
+    {
+        "name": "Wanderers_Journal-Kingdoms_Edge_Requires_Dive",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Wanderers_Journal-Kingdoms_Edge_Requires_Dive.png"
+    },
+    {
+        "name": "Wanderers_Journal-Kings_Station",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Wanderers_Journal-Kings_Station.png"
+    },
+    {
+        "name": "Wanderers_Journal-Pleasure_House",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Wanderers_Journal-Pleasure_House.png"
+    },
+    {
+        "name": "Wanderers_Journal-Resting_Grounds_Catacombs",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Wanderers_Journal-Resting_Grounds_Catacombs.png"
+    },
+    {
+        "name": "Weaversong",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Weaversong.png"
+    },
+    {
+        "name": "Whispering_Root-Ancestral_Mound",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Whispering_Root-Ancestral_Mound.png"
+    },
+    {
+        "name": "Whispering_Root-City",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Whispering_Root-City.png"
+    },
+    {
+        "name": "Whispering_Root-Crossroads",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Whispering_Root-Crossroads.png"
+    },
+    {
+        "name": "Whispering_Root-Crystal_Peak",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Whispering_Root-Crystal_Peak.png"
+    },
+    {
+        "name": "Whispering_Root-Deepnest",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Whispering_Root-Deepnest.png"
+    },
+    {
+        "name": "Whispering_Root-Greenpath",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Whispering_Root-Greenpath.png"
+    },
+    {
+        "name": "Whispering_Root-Hive",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Whispering_Root-Hive.png"
+    },
+    {
+        "name": "Whispering_Root-Howling_Cliffs",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Whispering_Root-Howling_Cliffs.png"
+    },
+    {
+        "name": "Whispering_Root-Kingdoms_Edge",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Whispering_Root-Kingdoms_Edge.png"
+    },
+    {
+        "name": "Whispering_Root-Leg_Eater",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Whispering_Root-Leg_Eater.png"
+    },
+    {
+        "name": "Whispering_Root-Mantis_Village",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Whispering_Root-Mantis_Village.png"
+    },
+    {
+        "name": "Whispering_Root-Queens_Gardens",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Whispering_Root-Queens_Gardens.png"
+    },
+    {
+        "name": "Whispering_Root-Resting_Grounds",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Whispering_Root-Resting_Grounds.png"
+    },
+    {
+        "name": "Whispering_Root-Spirits_Glade",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Whispering_Root-Spirits_Glade.png"
+    },
+    {
+        "name": "Whispering_Root-Waterways",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Whispering_Root-Waterways.png"
+    },
+    {
+        "name": "World_Sense",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/World_Sense.png"
+    }
+]
