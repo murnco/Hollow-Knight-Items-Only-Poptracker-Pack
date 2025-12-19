@@ -1,0 +1,299 @@
+{
+    "shared_item_grid_horizontal": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "2, 2",
+                        "h_alignment": "left",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "item_height": 36,
+                        "item_width": 36,
+                        "rows": [
+                            [
+                                "lurien",
+                                "monomon",
+								"herrah",
+								"queen_fragment_stage1",
+								"dream_nail_stage1",
+								"rightslash",
+								"upslash",
+								"leftslash"
+                            ],
+                            [
+								"mothwing_cloak",
+								"left_mothwing_cloak",
+								"right_mothwing_cloak",
+								"shade_cloak",
+								"split_shade_cloak",
+								"mantis_claw",
+								"left_mantis_claw",
+								"right_mantis_claw",
+								"crystal_heart",
+								"left_crystal_heart",
+								"right_crystal_heart"
+                            ],
+                            [
+								
+								"monarch_wings",
+								"swim",
+								"ismas_tear",
+								"lumafly_lantern",
+								"salubras_blessing",
+								"collectors_map",
+								"world_sense",
+								"godtuner"
+                            ],
+                            [
+								"focus",
+                                "vengeful_spirit_stage1",
+								"desolate_dive_stage1",
+								"howling_wraiths_stage1",
+								"cyclone_slash",
+								"dash_slash",
+								"great_slash"
+                            ],
+                            [
+								"kings_brand",
+								"city_crest",
+								"tram_pass",
+								"elevator_pass",
+                                "love_key",
+								"simple_key",
+								"elegant_key",
+								"shopkeepers_key"
+                            ],
+                            [
+                                "rancid_egg",
+								"grub",
+								"pale_ore",
+								"wanderers_journal",
+								"hallownest_seal",
+								"kings_idol",
+								"arcane_egg",
+								"charm_notch"
+                            ],
+                            [
+                                "dirtmouth_stag",
+								"crossroads_stag",
+								"greenpath_stag",
+								"queens_station_stag",
+								"queens_gardens_stag",
+								"city_storerooms_stag",
+								"kings_station_stag",
+								"resting_grounds_stag",
+								"distant_village_stag",
+								"stag_nest_stag",
+								"hidden_station_stag"
+                            ],
+                            [
+                                "wayward_compass",
+								"gathering_swarm",
+								"stalwart_shell",
+								"soul_catcher",
+								"shaman_stone",
+								"soul_eater",
+								"dashmaster",
+								"sprintmaster",
+								"grubsong",
+								"grubberflys_elegy"
+                            ],
+                            [
+                                "fragile_heart_stage1",
+								"fragile_greed_stage1",
+								"fragile_strength_stage1",
+								"spell_twister",
+								"steady_body",
+								"heavy_blow",
+								"quick_slash",
+								"longnail",
+								"mark_of_pride",
+								"fury_of_the_fallen"
+                            ],
+                            [
+                                "thorns_of_agony",
+								"baldur_shell",
+								"flukenest",
+								"defenders_crest",
+								"glowing_womb",
+								"quick_focus",
+								"deep_focus",
+								"lifeblood_core",
+								"lifeblood_heart",
+								"jonis_blessing"
+                            ],
+                            [
+                                "hiveblood",
+								"spore_shroom",
+								"sharp_shadow",
+								"shape_of_unn",
+								"nailmasters_glory",
+								"weaversong",
+								"dream_wielder",
+								"dreamshield",
+								"grimmchild1_stage1"
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "shared_item_grid_vertical": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "vertical",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "2, 2",
+                        "h_alignment": "left",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "item_height": 36,
+                        "item_width": 36,
+                        "rows": [
+                            [
+                                "lurien",
+                                "monomon",
+								"herrah",
+								"queen_fragment_stage1",
+								"dream_nail_stage1",
+								"rightslash",
+								"upslash",
+								"leftslash"								
+                            ],
+                            [
+								"mothwing_cloak",
+								"left_mothwing_cloak",
+								"right_mothwing_cloak",
+								"shade_cloak",
+								"split_shade_cloak",
+								"mantis_claw",
+								"left_mantis_claw",
+								"right_mantis_claw",
+								"crystal_heart",
+								"left_crystal_heart",
+								"right_crystal_heart"
+                            ],
+                            [
+								
+								"monarch_wings",
+								"swim",
+								"ismas_tear",
+								"lumafly_lantern",
+								"salubras_blessing",
+								"collectors_map",
+								"world_sense",
+								"godtuner"
+                            ],
+                            [
+								"focus",
+                                "vengeful_spirit_stage1",
+								"desolate_dive_stage1",
+								"howling_wraiths_stage1",
+								"cyclone_slash",
+								"dash_slash",
+								"great_slash"
+                            ],
+                            [
+								"kings_brand",
+								"city_crest",
+								"tram_pass",
+								"elevator_pass",
+                                "love_key",
+								"simple_key",
+								"elegant_key",
+								"shopkeepers_key"
+                            ],
+                            [
+                                "rancid_egg",
+								"grub",
+								"pale_ore",
+								"wanderers_journal",
+								"hallownest_seal",
+								"kings_idol",
+								"arcane_egg",
+								"charm_notch"
+                            ],
+                            [
+                                "dirtmouth_stag",
+								"crossroads_stag",
+								"greenpath_stag",
+								"queens_station_stag",
+								"queens_gardens_stag",
+								"city_storerooms_stag",
+								"kings_station_stag",
+								"resting_grounds_stag",
+								"distant_village_stag",
+								"stag_nest_stag",
+								"hidden_station_stag"
+                            ],
+                            [
+                                "wayward_compass",
+								"gathering_swarm",
+								"stalwart_shell",
+								"soul_catcher",
+								"shaman_stone",
+								"soul_eater",
+								"dashmaster",
+								"sprintmaster",
+								"grubsong",
+								"grubberflys_elegy"
+                            ],
+                            [
+                                "fragile_heart_stage1",
+								"fragile_greed_stage1",
+								"fragile_strength_stage1",
+								"spell_twister",
+								"steady_body",
+								"heavy_blow",
+								"quick_slash",
+								"longnail",
+								"mark_of_pride",
+								"fury_of_the_fallen"
+                            ],
+                            [
+                                "thorns_of_agony",
+								"baldur_shell",
+								"flukenest",
+								"defenders_crest",
+								"glowing_womb",
+								"quick_focus",
+								"deep_focus",
+								"lifeblood_core",
+								"lifeblood_heart",
+								"jonis_blessing"
+                            ],
+                            [
+                                "hiveblood",
+								"spore_shroom",
+								"sharp_shadow",
+								"shape_of_unn",
+								"nailmasters_glory",
+								"weaversong",
+								"dream_wielder",
+								"dreamshield",
+								"grimmchild1_stage1",
+                                "update"								
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}
