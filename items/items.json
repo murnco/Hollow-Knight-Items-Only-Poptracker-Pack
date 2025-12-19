@@ -1,0 +1,1179 @@
+[
+    {
+        "name": "Fragile_Greed",
+        "type": "progressive",
+        "loop": false,
+        "allow_disabled": true,
+        "initial_stage_idx": 0,
+        "overlay_align": "right",
+        "stages": [
+            {
+                "name": "Fragile_Greed",
+                "inherit_codes": false,
+                "img": "/images/items/fragile_greed.png",
+                "codes": "fragile_greed,unbreakable_greed,fragile_greed_stage1",
+            },
+            {
+                "name": "Unbreakable_Greed",
+                "inherit_codes": false,
+                "img": "/images/items/unbreakable_greed.png",
+                "codes": "fragile_greed,unbreakable_greed,fragile_greed_stage2",
+            },
+        ]
+    },
+    {
+        "name": "Soul_Catcher",
+        "type": "toggle",
+        "img": "images/items/soul_catcher.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "soul_catcher"
+    },
+    {
+        "name": "Thorns_of_Agony",
+        "type": "toggle",
+        "img": "images/items/thorns_of_agony.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "thorns_of_agony"
+    },
+    {
+        "name": "Dirtmouth_Stag",
+        "type": "toggle",
+        "img": "images/items/dirtmouth_stag.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "dirtmouth_stag"
+    },
+    {
+        "name": "Spell_Twister",
+        "type": "toggle",
+        "img": "images/items/spell_twister.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "spell_twister"
+    },
+    {
+        "name": "Elevator_Pass",
+        "type": "toggle",
+        "img": "images/items/elevator_pass.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "elevator_pass"
+    },
+    {
+        "name": "Mothwing_Cloak",
+        "type": "toggle",
+        "img": "images/items/mothwing_cloak.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "mothwing_cloak"
+    },
+    {
+        "name": "Lurien",
+        "type": "toggle",
+        "img": "images/items/lurien.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "lurien"
+    },
+    {
+        "name": "Sharp_Shadow",
+        "type": "toggle",
+        "img": "images/items/sharp_shadow.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "sharp_shadow"
+    },
+    {
+        "name": "Elegant_Key",
+        "type": "toggle",
+        "img": "images/items/elegant_key.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "elegant_key"
+    },
+    {
+        "name": "Shaman_Stone",
+        "type": "toggle",
+        "img": "images/items/shaman_stone.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "shaman_stone"
+    },
+    {
+        "name": "Swim",
+        "type": "toggle",
+        "img": "images/items/swim.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "swim"
+    },
+    {
+        "name": "Longnail",
+        "type": "toggle",
+        "img": "images/items/longnail.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "longnail"
+    },
+    {
+        "name": "Salubras_Blessing",
+        "type": "toggle",
+        "img": "images/items/salubras_blessing.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "salubras_blessing"
+    },
+    {
+        "name": "Focus",
+        "type": "toggle",
+        "img": "images/items/focus.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "focus"
+    },
+	{
+        "name": "Vengeful_Spirit",
+        "type": "progressive",
+        "loop": false,
+        "allow_disabled": true,
+        "initial_stage_idx": 0,
+        "overlay_align": "right",
+        "stages": [
+            {
+                "name": "Vengeful_Spirit",
+                "inherit_codes": true,
+                "img": "/images/items/vengeful_spirit.png",
+                "codes": "vengeful_spirit_stage1,vengeful_spirit",
+            },
+            {
+                "name": "Shade_Soul",
+                "inherit_codes": true,
+                "img": "/images/items/shade_soul.png",
+                "codes": "vengeful_spirit_stage2,shade_soul",
+            },
+        ]
+    },
+    {
+        "name": "Lifeblood_Heart",
+        "type": "toggle",
+        "img": "images/items/lifeblood_heart.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "lifeblood_heart"
+    },
+    {
+        "name": "Heavy_Blow",
+        "type": "toggle",
+        "img": "images/items/heavy_blow.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "heavy_blow"
+    },
+    {
+        "name": "Grubberflys_Elegy",
+        "type": "toggle",
+        "img": "images/items/grubberflys_elegy.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "grubberflys_elegy"
+    },
+    {
+        "name": "Rightslash",
+        "type": "toggle",
+        "img": "images/items/rightslash.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "rightslash"
+    },
+    {
+        "name": "Glowing_Womb",
+        "type": "toggle",
+        "img": "images/items/glowing_womb.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "glowing_womb"
+    },
+    {
+        "name": "Dream_Wielder",
+        "type": "toggle",
+        "img": "images/items/dream_wielder.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "dream_wielder"
+    },
+    {
+        "name": "Right_Crystal_Heart",
+        "type": "toggle",
+        "img": "images/items/right_crystal_heart.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "right_crystal_heart"
+    },
+    {
+        "name": "Shopkeepers_Key",
+        "type": "toggle",
+        "img": "images/items/shopkeepers_key.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "shopkeepers_key"
+    },
+    {
+        "name": "Pale_Ore",
+        "type": "consumable",
+        "img": "images/items/pale_ore.png",
+        "img_mods": "",
+        "min_quantity": 0,
+        "max_quantity": 6,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 0,
+        "overlay_align": "right",
+        "overlay_font_size": 14,
+        "overlay_background": "#000000",
+        "codes": "pale_ore"
+    },
+    {
+        "name": "Queens_Gardens_Stag",
+        "type": "toggle",
+        "img": "images/items/queens_gardens_stag.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "queens_gardens_stag"
+    },
+    {
+        "name": "Dream_Nail",
+        "type": "progressive",
+        "loop": false,
+        "allow_disabled": true,
+        "initial_stage_idx": 0,
+        "overlay_align": "right",
+        "stages": [
+            {
+                "name": "Dream_Nail",
+                "inherit_codes": true,
+                "img": "/images/items/dream_nail.png",
+                "codes": "dream_nail_stage1,dream_nail",
+            },
+            {
+                "name": "Dream_Gate",
+                "inherit_codes": true,
+                "img": "/images/items/dream_gate.png",
+                "codes": "dream_nail_stage2",
+            },
+            {
+                "name": "Awoken_Dream_Nail",
+                "inherit_codes": true,
+                "img": "/images/items/awoken_dream_nail.png",
+                "codes": "dream_nail_stage3",
+            }
+        ]
+    },
+    {
+        "name": "Fury_of_the_Fallen",
+        "type": "toggle",
+        "img": "images/items/fury_of_the_fallen.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "fury_of_the_fallen"
+    },
+    {
+        "name": "Kings_Station_Stag",
+        "type": "toggle",
+        "img": "images/items/kings_station_stag.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "kings_station_stag"
+    },
+    {
+        "name": "Simple_Key",
+        "type": "consumable",
+        "img": "images/items/simple_key.png",
+        "img_mods": "",
+        "min_quantity": 0,
+        "max_quantity": 4,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 0,
+        "overlay_align": "right",
+        "overlay_font_size": 14,
+        "overlay_background": "#000000",
+        "codes": "simple_key"
+    },
+    {
+        "name": "Wanderers_Journal",
+        "type": "consumable",
+        "img": "images/items/wanderers_journal.png",
+        "img_mods": "",
+        "min_quantity": 0,
+        "max_quantity": 14,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 0,
+        "overlay_align": "right",
+        "overlay_font_size": 14,
+        "overlay_background": "#000000",
+        "codes": "wanderers_journal"
+    },
+    {
+        "name": "Monarch_Wings",
+        "type": "toggle",
+        "img": "images/items/monarch_wings.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "monarch_wings"
+    },
+    {
+        "name": "Ismas_Tear",
+        "type": "toggle",
+        "img": "images/items/ismas_tear.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "ismas_tear"
+    },
+    {
+        "name": "Hiveblood",
+        "type": "toggle",
+        "img": "images/items/hiveblood.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "hiveblood"
+    },
+    {
+        "name": "Distant_Village_Stag",
+        "type": "toggle",
+        "img": "images/items/distant_village_stag.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "distant_village_stag"
+    },
+    {
+        "name": "Dashmaster",
+        "type": "toggle",
+        "img": "images/items/dashmaster.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "dashmaster"
+    },
+    {
+        "name": "Greenpath_Stag",
+        "type": "toggle",
+        "img": "images/items/greenpath_stag.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "greenpath_stag"
+    },
+    {
+        "name": "Hidden_Station_Stag",
+        "type": "toggle",
+        "img": "images/items/hidden_station_stag.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "hidden_station_stag"
+    },
+    {
+        "name": "Left_Crystal_Heart",
+        "type": "toggle",
+        "img": "images/items/left_crystal_heart.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "left_crystal_heart"
+    },
+    {
+        "name": "City_Crest",
+        "type": "toggle",
+        "img": "images/items/city_crest.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "city_crest"
+    },
+    {
+        "name": "Grubsong",
+        "type": "toggle",
+        "img": "images/items/grubsong.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "grubsong"
+    },
+    {
+        "name": "Gathering_Swarm",
+        "type": "toggle",
+        "img": "images/items/gathering_swarm.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "gathering_swarm"
+    },
+    {
+        "name": "Wayward_Compass",
+        "type": "toggle",
+        "img": "images/items/wayward_compass.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "wayward_compass"
+    },
+    {
+        "name": "Hallownest_Seal",
+        "type": "consumable",
+        "img": "images/items/hallownest_seal.png",
+        "img_mods": "",
+        "min_quantity": 0,
+        "max_quantity": 17,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 0,
+        "overlay_align": "right",
+        "overlay_font_size": 14,
+        "overlay_background": "#000000",
+        "codes": "hallownest_seal"
+    },
+    {
+        "name": "Charm_Notch",
+        "type": "consumable",
+        "img": "images/items/charm_notch.png",
+        "img_mods": "",
+        "min_quantity": 0,
+        "max_quantity": 11,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 0,
+        "overlay_align": "right",
+        "overlay_font_size": 14,
+        "overlay_background": "#000000",
+        "codes": "charm_notch"
+    },
+    {
+        "name": "Cyclone_Slash",
+        "type": "toggle",
+        "img": "images/items/cyclone_slash.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "cyclone_slash"
+    },
+    {
+        "name": "Arcane_Egg",
+        "type": "consumable",
+        "img": "images/items/arcane_egg.png",
+        "img_mods": "",
+        "min_quantity": 0,
+        "max_quantity": 3,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 0,
+        "overlay_align": "right",
+        "overlay_font_size": 14,
+        "overlay_background": "#000000",
+        "codes": "arcane_egg"
+    },
+    {
+        "name": "Quick_Focus",
+        "type": "toggle",
+        "img": "images/items/quick_focus.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "quick_focus"
+    },
+    {
+        "name": "Shade_Cloak",
+        "type": "toggle",
+        "img": "images/items/shade_cloak.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "shade_cloak"
+    },
+    {
+        "name": "Howling_Wraiths",
+        "type": "progressive",
+        "loop": false,
+        "allow_disabled": true,
+        "initial_stage_idx": 0,
+        "overlay_align": "right",
+        "stages": [
+            {
+                "name": "Howling_Wraiths",
+                "inherit_codes": true,
+                "img": "/images/items/howling_wraiths.png",
+                "img_mods": "",
+                "disabled_img": "",
+
+                "codes": "howling_wraiths_stage1",
+                "secondary_codes": ""
+            },
+            {
+                "name": "Abyss_Shriek",
+                "inherit_codes": true,
+                "img": "/images/items/abyss_shriek.png",
+                "codes": "howling_wraiths_stage2,abyss_shriek",
+            },
+        ]
+    },
+    {
+        "name": "Lumafly_Lantern",
+        "type": "toggle",
+        "img": "images/items/lumafly_lantern.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "lumafly_lantern"
+    },
+    {
+        "name": "Queen_Fragment",
+        "type": "progressive",
+        "loop": false,
+        "allow_disabled": true,
+        "initial_stage_idx": 0,
+        "overlay_align": "right",
+        "stages": [
+            {
+                "name": "Queen_Fragment",
+                "inherit_codes": true,
+                "img": "/images/items/queen_fragment.png",
+                "codes": "queen_fragment_stage1",
+            },
+            {
+                "name": "King_Fragment",
+                "inherit_codes": true,
+                "img": "/images/items/king_fragment.png",
+                "codes": "queen_fragment_stage2",
+            },
+            {
+                "name": "Void_Heart",
+                "inherit_codes": true,
+                "img": "/images/items/void_heart.png",
+                "codes": "queen_fragment_stage3",
+            }
+        ]
+    },
+    {
+        "name": "Kings_Brand",
+        "type": "toggle",
+        "img": "images/items/kings_brand.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "kings_brand"
+    },
+    {
+        "name": "Kings_Idol",
+        "type": "consumable",
+        "img": "images/items/kings_idol.png",
+        "img_mods": "",
+        "min_quantity": 0,
+        "max_quantity": 8,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 0,
+        "overlay_align": "right",
+        "overlay_font_size": 14,
+        "overlay_background": "#000000",
+        "codes": "kings_idol"
+    },
+    {
+        "name": "Crossroads_Stag",
+        "type": "toggle",
+        "img": "images/items/crossroads_stag.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "crossroads_stag"
+    },
+    {
+        "name": "Fragile_Heart",
+        "type": "progressive",
+        "loop": false,
+        "allow_disabled": true,
+        "initial_stage_idx": 0,
+        "overlay_align": "right",
+        "stages": [
+            {
+                "name": "Fragile_Heart",
+                "inherit_codes": true,
+                "img": "/images/items/fragile_heart.png",
+                "codes": "fragile_heart,unbreakable_heart,fragile_heart_stage1",
+            },
+            {
+                "name": "Unbreakable_Heart",
+                "inherit_codes": true,
+                "img": "/images/items/unbreakable_heart.png",
+                "codes": "fragile_heart,unbreakable_heart,fragile_heart_stage2",
+            },
+        ]
+    },
+    {
+        "name": "Left_Mantis_Claw",
+        "type": "toggle",
+        "img": "images/items/left_mantis_claw.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "left_mantis_claw"
+    },
+    {
+        "name": "Quick_Slash",
+        "type": "toggle",
+        "img": "images/items/quick_slash.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "quick_slash"
+    },
+    {
+        "name": "Mantis_Claw",
+        "type": "toggle",
+        "img": "images/items/mantis_claw.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "mantis_claw"
+    },
+    {
+        "name": "Resting_Grounds_Stag",
+        "type": "toggle",
+        "img": "images/items/resting_grounds_stag.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "resting_grounds_stag"
+    },
+    {
+        "name": "Desolate_Dive",
+        "type": "progressive",
+        "loop": false,
+        "allow_disabled": true,
+        "initial_stage_idx": 0,
+        "overlay_align": "right",
+        "stages": [
+            {
+                "name": "Desolate_Dive",
+                "img": "/images/items/desolate_dive.png",
+                "codes": "desolate_dive,desolate_dive_stage1",
+            },
+            {
+                "name": "Descending_Dark",
+                "img": "/images/items/descending_dark.png",
+                "codes": "desolate_dive,descending_dark,desolate_dive_stage2",
+            },
+        ]
+    },
+    {
+        "name": "Tram_Pass",
+        "type": "toggle",
+        "img": "images/items/tram_pass.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "tram_pass"
+    },
+    {
+        "name": "Flukenest",
+        "type": "toggle",
+        "img": "images/items/flukenest.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "flukenest"
+    },
+    {
+        "name": "Shape_of_Unn",
+        "type": "toggle",
+        "img": "images/items/shape_of_unn.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "shape_of_unn"
+    },
+    {
+        "name": "Godtuner",
+        "type": "toggle",
+        "img": "images/items/godtuner.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "godtuner"
+    },
+    {
+        "name": "Mark_of_Pride",
+        "type": "toggle",
+        "img": "images/items/mark_of_pride.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "mark_of_pride"
+    },
+    {
+        "name": "Collectors_Map",
+        "type": "toggle",
+        "img": "images/items/collectors_map.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "collectors_map"
+    },
+    {
+        "name": "Rancid_Egg",
+        "type": "consumable",
+        "img": "images/items/rancid_egg.png",
+        "img_mods": "",
+        "min_quantity": 0,
+        "max_quantity": 20,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 0,
+        "overlay_align": "right",
+        "overlay_font_size": 14,
+        "overlay_background": "#000000",
+        "codes": "rancid_egg"
+    },
+    {
+        "name": "Sprintmaster",
+        "type": "toggle",
+        "img": "images/items/sprintmaster.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "sprintmaster"
+    },
+    {
+        "name": "Left_Mothwing_Cloak",
+        "type": "toggle",
+        "img": "images/items/left_mothwing_cloak.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "left_mothwing_cloak"
+    },
+    {
+        "name": "Monomon",
+        "type": "toggle",
+        "img": "images/items/monomon.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "monomon"
+    },
+    {
+        "name": "Herrah",
+        "type": "toggle",
+        "img": "images/items/herrah.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "herrah"
+    },
+    {
+        "name": "Baldur_Shell",
+        "type": "toggle",
+        "img": "images/items/baldur_shell.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "baldur_shell"
+    },
+    {
+        "name": "Grub",
+        "type": "consumable",
+        "img": "images/items/grub.png",
+        "img_mods": "",
+        "min_quantity": 0,
+        "max_quantity": 46,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 0,
+        "overlay_align": "right",
+        "overlay_font_size": 14,
+        "overlay_background": "#000000",
+        "codes": "grub"
+    },
+    {
+        "name": "Soul_Eater",
+        "type": "toggle",
+        "img": "images/items/soul_eater.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "soul_eater"
+    },
+    {
+        "name": "Split_Shade_Cloak",
+        "type": "toggle",
+        "img": "images/items/split_shade_cloak.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "split_shade_cloak"
+    },
+    {
+        "name": "Nailmasters_Glory",
+        "type": "toggle",
+        "img": "images/items/nailmasters_glory.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "nailmasters_glory"
+    },
+    {
+        "name": "Queens_Station_Stag",
+        "type": "toggle",
+        "img": "images/items/queens_station_stag.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "queens_station_stag"
+    },
+    {
+        "name": "Upslash",
+        "type": "toggle",
+        "img": "images/items/upslash.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "upslash"
+    },
+    {
+        "name": "Defenders_Crest",
+        "type": "toggle",
+        "img": "images/items/defenders_crest.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "defenders_crest"
+    },
+    {
+        "name": "Right_Mothwing_Cloak",
+        "type": "toggle",
+        "img": "images/items/right_mothwing_cloak.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "right_mothwing_cloak"
+    },
+    {
+        "name": "Leftslash",
+        "type": "toggle",
+        "img": "images/items/leftslash.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "leftslash"
+    },
+    {
+        "name": "Dash_Slash",
+        "type": "toggle",
+        "img": "images/items/dash_slash.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "dash_slash"
+    },
+    {
+        "name": "City_Storerooms_Stag",
+        "type": "toggle",
+        "img": "images/items/city_storerooms_stag.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "city_storerooms_stag"
+    },
+    {
+        "name": "Great_Slash",
+        "type": "toggle",
+        "img": "images/items/great_slash.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "great_slash"
+    },
+    {
+        "name": "World_Sense",
+        "type": "toggle",
+        "img": "images/items/world_sense.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "world_sense"
+    },
+    {
+        "name": "Stag_Nest_Stag",
+        "type": "toggle",
+        "img": "images/items/stag_nest_stag.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "stag_nest_stag"
+    },
+    {
+        "name": "Right_Mantis_Claw",
+        "type": "toggle",
+        "img": "images/items/right_mantis_claw.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "right_mantis_claw"
+    },
+    {
+        "name": "Weaversong",
+        "type": "toggle",
+        "img": "images/items/weaversong.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "weaversong"
+    },
+    {
+        "name": "Fragile_Strength",
+        "type": "progressive",
+        "loop": false,
+        "allow_disabled": true,
+        "initial_stage_idx": 0,
+        "overlay_align": "right",
+        "stages": [
+            {
+                "name": "Fragile_Strength stage1",
+                "inherit_codes": true,
+                "img": "/images/items/fragile_strength.png",
+                "codes": "fragile_strength_stage1",
+            },
+            {
+                "name": "Unbreakable_Strength",
+                "inherit_codes": true,
+                "img": "/images/items/unbreakable_strength.png",
+                "codes": "fragile_strength_stage2",
+            },
+        ]
+    },
+    {
+        "name": "Lifeblood_Core",
+        "type": "toggle",
+        "img": "images/items/lifeblood_core.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "lifeblood_core"
+    },
+    {
+        "name": "Love_Key",
+        "type": "toggle",
+        "img": "images/items/love_key.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "love_key"
+    },
+    {
+        "name": "Dreamshield",
+        "type": "toggle",
+        "img": "images/items/dreamshield.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "dreamshield"
+    },
+    {
+        "name": "Spore_Shroom",
+        "type": "toggle",
+        "img": "images/items/spore_shroom.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "spore_shroom"
+    },
+    {
+        "name": "Grimmchild1",
+        "type": "progressive",
+        "loop": false,
+        "allow_disabled": true,
+        "initial_stage_idx": 0,
+        "overlay_align": "right",
+        "stages": [
+            {
+                "name": "Grimmchild1 stage1",
+                "inherit_codes": true,
+                "img": "/images/items/grimmchild1.png",
+                "codes": "grimmchild1_stage1",
+            },
+            {
+                "name": "Grimmchild2",
+                "inherit_codes": true,
+                "img": "/images/items/grimmchild2.png",
+                "codes": "grimmchild1_stage2",
+            },
+        ]
+    },
+    {
+        "name": "Steady_Body",
+        "type": "toggle",
+        "img": "images/items/steady_body.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "steady_body"
+    },
+    {
+        "name": "Jonis_Blessing",
+        "type": "toggle",
+        "img": "images/items/jonis_blessing.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "jonis_blessing"
+    },
+    {
+        "name": "Crystal_Heart",
+        "type": "toggle",
+        "img": "images/items/crystal_heart.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "crystal_heart"
+    },
+    {
+        "name": "Deep_Focus",
+        "type": "toggle",
+        "img": "images/items/deep_focus.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "deep_focus"
+    },
+    {
+        "name": "Stalwart_Shell",
+        "type": "toggle",
+        "img": "images/items/stalwart_shell.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "stalwart_shell"
+    },
+    {
+        "name": "Update",
+        "type": "toggle",
+        "img": "images/items/update.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "update"
+    }
+]
